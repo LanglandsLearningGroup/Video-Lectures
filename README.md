@@ -13,13 +13,15 @@ B站链接：https://www.bilibili.com/video/BV1mv411k76k Notes on lecture by Wan
 5. **[Lecture]** A friendly introduction to the theory of modular forms https://www.math.arizona.edu/~swc/
 6. **[Lecture]** An introduction to modular forms by Yitang Zhang https://www.bilibili.com/video/BV1B4411y7N1?from=search&seid=2629272658836513858
 
-## Etale cohomology, perverse sheaves
+## Etale cohomology, perverse sheaves and p-adic cohomology
 
 1. **[Lecture]** Etale cohomology by Daniel Litt https://www.daniellitt.com/tale-cohomology 
 2. **[Talk]** Finiteness Theorems for Etale Cohomology of Excellent Schemes by Ofer Gabber  https://www.ias.edu/video/geometry-and-arithmetic-finiteness-theorems-etale-cohomology-excellent-schemes
 Note: http://www.cmls.polytechnique.fr/perso/laszlo/gdtgabber/abelien.pdf
 3. **[Talk]** The pro-etale site by Peter Scholze https://www.youtube.com/watch?v=qL5uxXAeU00&ab_channel=HausdorffCenterforMathematics
 4. **[Minicourse]** on perverse sheaves by Williamson: https://www.youtube.com/watch?v=HQxKjquwbz4&list=PLp4l8vpEC0G_dNZfHpeh1NefZo3v3O6XG&ab_channel=SNSChannelMathematicalandNaturalSciences
+5. **[Talk]** Etale and crystalline companions by Kiran Kedlaya https://www.ias.edu/video/members/2019/0415-KiranKedlaya
+6. **[Talk]** Arithmetic D-modules and existence of crystalline companion by Abe, Tomoyuki https://library.cirm-math.fr/Record.htm?record=19282450124910006329&lang=ES
 
 ## p-adic geometry, perfectoid spaces,prismatic cohomology and geometrization of the local langlands program
 1. **[Lecture]** $p$-adic geometry AWS2007 https://www.math.arizona.edu/~swc/aws/2007/notes.html
@@ -105,7 +107,7 @@ Course homepage：https://www2.math.upenn.edu/~ted/720F18/info.html#texts In thi
 
 1. **[Lecture]** Arizona Winter School 2012: Ramification and Geometry https://www.math.arizona.edu/~swc/aws/2012/index.html
 
-## An introduction to $p$-adic Hodge theory, Galois representations and $p$-adic Langlands program
+## p-adic Hodge theory, Galois representations and p-adic Langlands program
 
 1. **[Lecture]** A quick overview to p-adic Hodge theory by Xiao liang https://www.bilibili.com/video/BV17y4y127sG?p=14
 2. **[Lecture]** Introduction to p-adic Hodge theory by Denis Benois 
@@ -143,6 +145,11 @@ Lecture 12—13：继续B_st。weil deligne modules for de rham representations�
 8. **[Lecture]** p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by 欧阳毅 as ASARC intensive lectures at KAIST, 2009. https://www.bilibili.com/video/BV1VW411w7HG?t=13
 9. **[Lecture]** School on Serre conjectures and the p-adic Langlands program https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951 
 可先看一下去年London NT study group的资料： https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html。这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
+10. **[Talk]** Lifting Galois representations by Toby Gee https://www.youtube.com/watch?v=CqiFc_lGRWA
+11. **[Talk]** Moduli of Galois Representations by David Savitt https://www.youtube.com/watch?v=DKYkesElbeo
+12. **[Talk]** Serre weight conjectures in higher dimension by Brandon Levin https://www.youtube.com/watch?v=du_ArZaa74w
+13. **[Talk]** 意大利国家高等数学研究院 (INdAM) 项目: 塞尔猜想与 p-进局部朗兰兹纲领 https://www.bilibili.com/video/BV1CA411L7zt?p=39&share_medium=iphone&share_plat=ios&share_session_id=A4A3A8F5-05A7-4A85-8A84-0CFBED0BD201&share_source=WEIXIN&share_tag=s_i&timestamp=1639402240&unique_k=czIkXlc
+
 
 ## Condensed Mathematics
 
