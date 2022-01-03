@@ -1,4 +1,4 @@
-# -Video-Lectures 这是学习视频资源合集
+# -Video-Lectures 学习视频资源
 
 ## Modular forms, Modularity Lifting theorem and Fermat last theorem 
 
