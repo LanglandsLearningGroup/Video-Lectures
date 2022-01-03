@@ -41,4 +41,138 @@ Note: http://www.cmls.polytechnique.fr/perso/laszlo/gdtgabber/abelien.pdf
 ### Minicourse: Bun_G, shtukas, and the local Langlands program https://sites.google.com/view/rampageseminar/bun_g-minicourse
 ### Talk: Geometrization of the local Langlands correspondence by Laurent Fargues https://www.youtube.com/watch?v=gq5vB2xbRv0&ab_channel=FieldsInstitute
 
+## Geometric Langlands program
+
+### Lecture ：Langlangds program by Frenkel https://www.bilibili.com/video/BV1XW411C7GN 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（他写了一本书）
+### Talk: Geometric class field theory https://www.msri.org/workshops/137/schedules/687
+
+## Stacks and moduli
+
+### Lecture ：What is a Stack? https://www.youtube.com/watch?v=91fJ3GTM7Dk&list=LL&index=2&ab_channel=TaylorDupuy
+### Lecture ：Introduction to stacks and moduli by Jarod Alper https://sites.math.washington.edu/~jarod/math582C.html
+
+## Higher category theory
+
+### Popular science：$ \infty $-Category Theory for Undergraduates https://www.youtube.com/watch?v=A6hXn6QCu0k&feature=youtu.be&ab_channel=EmilyRiehl
+### Lecture 1：Lecture course “Topological Cyclic homology”, WS 2020/21 https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/tc.html
+### Lecture 2：Introduction to higher category theory by Tobias Dyckerhoff https://www.math.uni-hamburg.de/home/dyckerhoff/inftycat2021/index.html
+### Lecture 3：Introduction to Derived Geometry http://bicmr.pku.edu.cn/content/show/70-2449.html Password：Geometry
+
+## Rational points on varieties
+
+### Lecture 1：Rational points on curves by Henri Darmon https://www.bilibili.com/video/BV1M5411H7f5 This article surveys a few of the highlights in the arithmetic of curves: the proof of the Mordell Conjecture, and the more detailed theorythat has developed around the classes of curves most studied until now by number theorists: modular curves, Fermat curves, and elliptic curves. 讲义下载地址：http://www.claymath.org/library/proceedings/cmip08c.pdf
+### Lecture 2：Faltings’ proof of the Mordell Conjecture by Jared Weinsteinhttps://www.bilibili.com/video/BV1Bt4y1B7VX Course homepage：https://sites.google.com/view/ma-842-spring-2021/home
+### Lecture 3：Arizona Winter School 2015: Arithmetic and Higher-Dimensional Varieties https://www.math.arizona.edu/~swc/aws/2015/index.html
+### Talk: Introduction to the Mordell conjecture by 袁新意 https://www.bilibili.com/video/BV1534y1m7iy?spm_id_from=333.999.0.0
+
+## An introduction to Langlands program
+
+### Lecture 1：Automorphic Forms and the Langlands Program by Kevin Buzzard at the Summer Graduate School of MSRI https://www.bilibili.com/video/BV1YW411L7Zr Berkeley. Course homepage http://wwwf.imperial.ac.uk/~buzzard/MSRI/ （底下有完整Latex笔记）
+### Lecture 2：The local Langlands correspondence and local-global compatibility for $GL_2$ by Sug Woo Shin 
+1 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_47ritgx2
+2 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_0ijb4ug0
+3 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_g6ortsdt
+4 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_nt9wgc2
+5 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_y4s3ep5b
+### Lecture 3：Representation theory and number theory by Benedict Gross https://www.bilibili.com/video/BV1d441147Lz?p=1 Note: http://www.math.columbia.edu/~chaoli/docs/EilenbergLectures.html#sec10
+### Lecture 4：Langlands correspondence and Bezrukavnikov’s equivalence by Geordie Williamson https://www.youtube.com/watch?v=9icAHvcVRAc&list=PLtmvIY4GrVv9kMZmf4Fm1mHUGYzTPY8pV&ab_channel=SydneyMathematicalResearchInstitute-SMRI For notes, see: https://arxiv.org/pdf/2103.02329.pdf
+### Lecture 5：Relative aspects of the Langlands program by Farrell Brumley https://www.bilibili.com/video/BV19f4y1478E?p=1&share_medium=iphone&share_plat=ios&share_source=GENERIC&share_tag=s_i&timestamp=1615239713&unique_k=yvhg3e Course homepage：https://www.math.univ-paris13.fr/~brumley/M2-2021.html
+### Lecture 6: Sato-Tate distributions https://www.math.arizona.edu/~swc/aws/2016/index.html
+### Lecture 7: An introduction to the Langlands correspondence by Matthew Emerton 
+1 https://www.youtube.com/watch?v=oXQvcNdu-b8&t=520s&ab_channel=MathsVideos
+2 https://www.youtube.com/watch?v=EjewLsTU8Dw&t=508s&ab_channel=MathsVideos
+### Lecture 8: Motives and L-functions by Frank Calegari
+1 https://www.youtube.com/watch?v=hKpbvq7HsZo&ab_channel=HarvardMath
+2 https://www.youtube.com/watch?v=NN3Gt6iBj3w&ab_channel=HarvardMath
+Note:http://www.math.uchicago.edu/~fcale/papers/CDM.pdf
+### Popular science：Modular forms and Galois representations by Sug Woo Shin https://www.youtube.com/watch?v=2cGTHuiRo3E&ab_channel=MathnetKorea
+
+## Algebraic Number Theory
+
+### Lecture 1：An introduction to algebraic and analytic number theory by kedlaya https://www.bilibili.com/video/BV12X4y1K7Wn (Part I), https://www.bilibili.com/video/BV1HT4y1K7RU (Part II)
+Course homepage：http://math.ucsd.edu/~kkedlaya/math204a/ (Part I) , http://math.ucsd.edu/~kkedlaya/math204b/ (Part II)
+### Lecture 2：Algebraic Number Theory II https://homepages.uni-regensburg.de/~spj54141/teaching.html
+### Lecture 3: Algebraic Number Theory by Howe https://www.math.utah.edu/~howe/2021-fall/6370/
+
+## Iwasawa theory
+
+### Lecture 1：Iwasawa theory by Ted Chinburg https://www2.math.upenn.edu/~ted/720F18/hw-720SchedTab.html, B站链接 https://www.bilibili.com/video/BV1854y1p7go ，https://www.bilibili.com/video/BV1tV411q7UM
+Course homepage：https://www2.math.upenn.edu/~ted/720F18/info.html#texts In this course I will give an overview of Iwasawa theory and of some aspects of the theory of modular forms and Galois representations. The eventual goal of the course is to describe some current research topics having to do with higher codimension Iwasawa theory.
+### Lecture 2：Arizona Winter School 2018: Iwasawa Theory https://www.math.arizona.edu/~swc/aws/2018/index.html
+
+## Ramification Theory and Geometry
+
+### Lecture 1：Arizona Winter School 2012: Ramification and Geometry https://www.math.arizona.edu/~swc/aws/2012/index.html
+
+## An introduction to $p$-adic Hodge theory, Galois representations and $p$-adic Langlands program
+
+### Lecture 1：A quick overview to p-adic Hodge theory by Xiao liang https://www.bilibili.com/video/BV17y4y127sG?p=14
+### Lecture 2：Introduction to p-adic Hodge theory by Denis Benois 
+1 https://www.youtube.com/watch?v=zk8_hbE-w3o&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences
+2 https://www.youtube.com/watch?v=hqjDJshJmkw&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences
+3 https://www.youtube.com/watch?v=3n_sNGKgqgg&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences
+4 https://www.youtube.com/watch?v=YDBUfgsld1k&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences
+### Lecture 3：An overview of the theory of p-adic Galois representations by Jared Weinstein $(\varphi,\Gamma)$-modules and p-adic Hodge theory by Gabriel Dospinescu
+1 https://www.youtube.com/watch?v=1KBKSYTWxBA&t=16s
+2 https://www.youtube.com/watch?v=o1oIOqPWd8k&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9
+3 https://www.youtube.com/watch?v=GU4huGMbxbw&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9
+4 https://www.youtube.com/watch?v=gkPKbrPt9xU&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9
+### Lecture 4：p-adic Hodge theory and deformations of Galois representations by Eugen Hellmann
+1 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_t7jpqb5e
+2 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_0750vb3a
+3 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_bq0e6fqy
+4 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_qv4betgv
+5 https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_dewzkyby
+### Lecture 5：An elementary but modern introduction to p-adic Hodge theory by Sean Howe https://www.math.utah.edu/~howe/6370/ 
+B站链接：https://www.bilibili.com/video/BV1Bv411a7Gw?t=2759, lecture1-2是motivication and overview，lecture 3-17：从p进数的构造开始，基本上是local field的内容，不超过serre local field那本书,Lecture18-23 讲了一些galois representation的基本定义啥的，来自几何的Galois rep，所以介绍椭圆曲线，tate module，一些例子，Lecture 24— p adic divisible group，tate theorem,B-ring. 完整的笔记合集见（105MB)：
+### Lecture 6：$\ell$-adic representations by Adrian Iovita https://www.bilibili.com/video/BV1cr4y1w71S
+### Lecture 7：$p$-adic Galois representations https://www.bilibili.com/video/BV1WD4y1R7Kh 
+overview：
+Lecture 1：很不错的动机介绍；后小部分开始正课：证明C_p是代数闭域，所以需要Krasner lemma；最后引出Ax sense Tate theorem，并做了部分证明准备。
+Lecture 2:给出Ax sen tate thm完整证明；给出几个例子；计算；介绍group cohomology；并且证明G_Q_p的C_p半线性表示等价类和group cohomology H^1(G_Q_p，GL_n(C_p）)有一个双射。引出下节课想要证明sen的定理：H^1 （G_Q_p，GL_n（C_p））＝H^1(Gal（K_infinity/Q_p），GL_n（K_infinity））
+Lecture3：这里follow B站视频的序号，P3是空的。
+Lecture 4—5:修正lecture 1一处typo。继续lecture2最后提到的sen的定理的证明。基本上是fontaine 欧阳毅 的书 section3-2的prop 3.16的证明。
+Lecture 6：fontaine的书section 3.2.4
+Lecture 7：fontaine的书 section 3.5.3 C_p admissible，Hodge tate representation，B admissible
+Lecture 8：继续hodge tate，witt vector，tilts，untilt，A_inf
+Lecture9：定义B_dR^＋，B_dR。de rham representation。
+Lecture 10：前面继续de rham rep，接着开始B_cris的动机，构造
+Lecture11：继续cris rep。然后B_st的构造，semistable rep。
+Lecture 12—13：继续B_st。weil deligne modules for de rham representations。
+### Lecture 8：p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by 欧阳毅 as ASARC intensive lectures at KAIST, 2009. https://www.bilibili.com/video/BV1VW411w7HG?t=13
+### Lecture 9：School on Serre conjectures and the p-adic Langlands program https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951 
+可先看一下去年London NT study group的资料： https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html。这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
+
+## Condensed Mathematics
+
+### Popular science speech:：Condensed Mathematics https://www.youtube.com/watch?v=pzq1FvmEjaM&feature=youtu.be&ab_channel=GraduateMathematics
+### Lecture ：Masterclass in Condensed Mathematics https://www.bilibili.com/video/BV1YD4y1X74T?p=1&share_medium=android&share_source=more&bbid=PAhsW2pYYQNnA2AGegZ6infoc&ts=1610875564950
+Note：https://www.math.uni-bonn.de/people/scholze/Condensed.pdf
+### 相关报告：Joint Seminar TUM/UR: Condensed/Pyknotic Mathematics
+1 Condensed Seminar: Who cares about pyknosis https://www.msri.org/seminars/24809
+2 Condensed Seminar: Pyknotic sets https://www.msri.org/seminars/24915#description
+3 Condensed Seminar: Pyknotic abelian groups https://www.msri.org/seminars/24919
+4 Condensed Seminar: Animating pyknotic sets (AKA pyknotic spaces) https://www.msri.org/seminars/24750
+Homepage：http://www.mathematik.uni-regensburg.de/cisinski/condensed.html
+### lecture notes in Chinese: https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6
+
+## Deligne–Lusztig theory
+
+### Lecture: Introduction to Deligne Lusztig Theory https://www.youtube.com/watch?v=eQC9i4ul-K4&ab_channel=NingShan
+
+## Shimura varieties
+
+### Minicourse: Introduction to Shimura varieties by Xiaoliang
+1 https://www.bilibili.com/video/BV1Gq4y1K7CA?spm_id_from=333.999.0.0
+2 https://www.bilibili.com/video/BV1ob4y127MC?spm_id_from=333.999.0.0
+3 https://www.bilibili.com/video/BV1cQ4y1k7Bf?spm_id_from=333.999.0.0
+4 https://www.bilibili.com/video/BV14g411c74Q?spm_id_from=333.999.0.0
+5 https://www.bilibili.com/video/BV1Wq4y1f75e?spm_id_from=333.999.0.0
+6 https://www.bilibili.com/video/BV18f4y1w7h1?spm_id_from=333.999.0.0
+7 https://www.bilibili.com/video/BV1sQ4y1r7dj?spm_id_from=333.999.0.0
+8 https://www.bilibili.com/video/BV16L411x7Pz?spm_id_from=333.999.0.0
+9 https://www.bilibili.com/video/BV1d64y1b7nG?spm_id_from=333.999.0.0
+10 https://www.bilibili.com/video/BV1bM4y1g7Xr?spm_id_from=333.999.0.0
+### Minicourse: Counting points on Shimura Varieties by Yihang Zhu https://www.bilibili.com/video/BV1HL4y1z7e2?spm_id_from=333.999.0.0
+
 
