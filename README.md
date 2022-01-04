@@ -12,7 +12,7 @@
 5. **[Lecture]** [A friendly introduction to the theory of modular forms](https://www.math.arizona.edu/~swc/)
 6. **[Lecture]** [An introduction to modular forms by Yitang Zhang](https://www.bilibili.com/video/BV1B4411y7N1?from=search&seid=2629272658836513858)
 
-## Etale cohomology, perverse sheaves and p-adic cohomology
+## Etale Cohomology, Perverse Sheaves and p-adic Cohomology
 
 1. **[Lecture]** [Etale cohomology by Daniel Litt](https://www.daniellitt.com/tale-cohomology) 
 2. **[Talk]** [Finiteness Theorems for Etale Cohomology of Excellent Schemes by Ofer Gabber](https://www.ias.edu/video/geometry-and-arithmetic-finiteness-theorems-etale-cohomology-excellent-schemes)
@@ -22,7 +22,7 @@
 5. **[Talk]** [Etale and crystalline companions by Kiran Kedlaya](https://www.ias.edu/video/members/2019/0415-KiranKedlaya)
 6. **[Talk]** [Arithmetic D-modules and existence of crystalline companion by Abe, Tomoyuki](https://library.cirm-math.fr/Record.htm?record=19282450124910006329&lang=ES)
 
-## p-adic geometry, perfectoid spaces,prismatic cohomology and geometrization of the local langlands program
+## p-adic Geometry, Perfectoid Spaces, Prismatic Cohomology and Geometrization of the Local Langlands Program
 1. **[Lecture]** [$p$-adic geometry AWS2007](https://www.math.arizona.edu/~swc/aws/2007/notes.html)
 2. **[Lecture]** [Perfectoid Spaces and the Weight-Monodromy Conjecture by Peter Scholze at IHES, 2011](http://www.ihes.fr/~abbes/CAGA/scholze.html) [B站](https://www.bilibili.com/video/BV1vs411E7wP) 这是Scholze 解读他本人的博士论文 [perfectoid space](http://www.ihes.fr/~abbes/CAGA/PerfectoidSpaces.pdf)
 3. **[Lecture]** [Overview: Perfectoid Spaces and their Applications](https://www.youtube.com/watch?v=CiN7X7V-HOE&t=2646s&ab_channel=xuan-gottfriedYANG) 和 [ICM 2014](https://www.youtube.com/watch?v=82nhZ1KtcQs&ab_channel=SeoulICMVOD) 前者[笔记](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/Overview.pdf) ；后者[笔记](https://www.math.uni-bonn.de/people/scholze/ICM.pdf)
@@ -43,7 +43,7 @@
 15. **[Talk]** [Geometrization of the local Langlands correspondence by Laurent Fargues](https://www.youtube.com/watch?v=gq5vB2xbRv0&ab_channel=FieldsInstitute)
 16. **[Lecture]** Fourier transform and the geometrization of local Langlands by Arthur-César Le Bras [1](https://www.youtube.com/watch?v=2E-Uz7yhpuA&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=2&ab_channel=GeoTopCPH) [2](https://www.youtube.com/watch?v=HI2v8U4zQy8&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=1&ab_channel=GeoTopCPH) [3](https://www.youtube.com/watch?v=4kXa6WKoVq8&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=3&ab_channel=GeoTopCPH) [4](https://www.youtube.com/watch?v=a66knWC0mCU&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=4&ab_channel=GeoTopCPH) [5](https://www.youtube.com/watch?v=zNfgK__-gY4&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=5&ab_channel=GeoTopCPH)
 
-## Geometric Langlands program
+## Geometric Langlands Program
 
 1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（他写了一本书）
 2. **[Talk]** [Geometric class field theory](https://www.msri.org/workshops/137/schedules/687)
@@ -54,21 +54,21 @@
 2. **[Lecture]** [Introduction to stacks and moduli by Jarod Alper](https://sites.math.washington.edu/~jarod/math582C.html)
 3. **[Lecture]** [Moduli spaces in algebraic geometry by Ravi Vakil](https://math.stanford.edu/~vakil/22-245moduli/)
 
-## Higher category theory
+## Higher Category Theory
 
 1. **[Popular science]** [$ \infty $-Category Theory for Undergraduates](https://www.youtube.com/watch?v=A6hXn6QCu0k&feature=youtu.be&ab_channel=EmilyRiehl)
 2. **[Lecture]** [Lecture course “Topological Cyclic homology”, WS 2020/21](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/tc.html)
 3. **[Lecture]** [Introduction to higher category theory by Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/inftycat2021/index.html)
 4. **[Lecture]** [Introduction to Derived Geometry](http://bicmr.pku.edu.cn/content/show/70-2449.html) Password：Geometry
 
-## Rational points on varieties
+## Rational Points on Varieties
 
 1. **[Lecture]** [Rational points on curves by Henri Darmon](https://www.bilibili.com/video/BV1M5411H7f5) This article surveys a few of the highlights in the arithmetic of curves: the proof of the Mordell Conjecture, and the more detailed theorythat has developed around the classes of curves most studied until now by number theorists: modular curves, Fermat curves, and elliptic curves. [讲义下载地址](http://www.claymath.org/library/proceedings/cmip08c.pdf)
 2. **[Lecture]** [Faltings’ proof of the Mordell Conjecture by Jared Weinstein](https://www.bilibili.com/video/BV1Bt4y1B7VX) [Course homepage](https://sites.google.com/view/ma-842-spring-2021/home)
 3. **[Lecture]** [Arizona Winter School 2015: Arithmetic and Higher-Dimensional Varieties](https://www.math.arizona.edu/~swc/aws/2015/index.html)
 4. **[Talk]** [Introduction to the Mordell conjecture by 袁新意](https://www.bilibili.com/video/BV1534y1m7iy?spm_id_from=333.999.0.0)
 
-## An introduction to Langlands program
+## An Introduction to Langlands Program
 
 1. **[Lecture]** [Automorphic Forms and the Langlands Program by Kevin Buzzard at the Summer Graduate School of MSRI](https://www.bilibili.com/video/BV1YW411L7Zr) [Course homepage](http://wwwf.imperial.ac.uk/~buzzard/MSRI/) （底下有完整Latex笔记）
 2. **[Lecture]** The local Langlands correspondence and local-global compatibility for $GL_2$ by Sug Woo Shin 
@@ -107,7 +107,7 @@
 
 1. **[Lecture]** [Arizona Winter School 2012: Ramification and Geometry](https://www.math.arizona.edu/~swc/aws/2012/index.html)
 
-## p-adic Hodge theory, Galois representations and p-adic Langlands program
+## p-adic Hodge theory, Galois representations and p-adic Langlands Program
 
 1. **[Lecture]** [A quick overview to p-adic Hodge theory by Liang Xiao](https://www.bilibili.com/video/BV17y4y127sG?p=14)
 2. **[Lecture]** Introduction to p-adic Hodge theory by Denis Benois 
@@ -167,11 +167,11 @@ Lecture 12—13：继续B_st。weil deligne modules for de rham representations�
 4. **[Seminar]** Joint Seminar TUM/UR: [Condensed/Pyknotic Mathematics](http://www.mathematik.uni-regensburg.de/cisinski/condensed.html)
 5. **[Seminar]** [凝聚态数学](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6)
 
-## Deligne–Lusztig theory
+## Deligne–Lusztig Theory
 
 1. **[Lecture]** [Introduction to Deligne Lusztig Theory](https://www.youtube.com/watch?v=eQC9i4ul-K4&ab_channel=NingShan)
 
-## Shimura varieties
+## Shimura Varieties
 
 1. **[Minicourse]** Introduction to Shimura varieties by Xiaoliang
 [1](https://www.bilibili.com/video/BV1Gq4y1K7CA?spm_id_from=333.999.0.0)
