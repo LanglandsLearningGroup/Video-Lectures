@@ -149,6 +149,7 @@ Lecture 12—13：继续B_st。weil deligne modules for de rham representations�
 11. **[Talk]** Moduli of Galois Representations by David Savitt https://www.youtube.com/watch?v=DKYkesElbeo
 12. **[Talk]** Serre weight conjectures in higher dimension by Brandon Levin https://www.youtube.com/watch?v=du_ArZaa74w
 13. **[Talk]** 意大利国家高等数学研究院 (INdAM) 项目: 塞尔猜想与 p-进局部朗兰兹纲领 https://www.bilibili.com/video/BV1CA411L7zt?p=39&share_medium=iphone&share_plat=ios&share_session_id=A4A3A8F5-05A7-4A85-8A84-0CFBED0BD201&share_source=WEIXIN&share_tag=s_i&timestamp=1639402240&unique_k=czIkXlc
+14. **[Talk]** Deformations of Galois representations and applications by Emerton https://www.bilibili.com/video/BV19D4y1R7jP?p=1&share_medium=iphone&share_plat=ios&share_session_id=D1D361AA-61C7-418B-805D-293B6E28B011&share_source=COPY&share_tag=s_i&timestamp=1641256323&unique_k=F9RB5Uy  Note:http://www.math.uchicago.edu/~emerton/pdffiles/galois-talk.pdf
 
 
 ## Condensed Mathematics
