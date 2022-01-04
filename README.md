@@ -32,7 +32,7 @@ Note: http://www.cmls.polytechnique.fr/perso/laszlo/gdtgabber/abelien.pdf
 6. **[Lecture]** Prismatic cohomology by Scholze https://www.bilibili.com/video/BV1GJ41147a7?p=1&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1611070488&unique_k=qsqSNZ A great preview of those lectures was given by Tao’s blog https://terrytao.wordpress.com/2019/03/19/prismatic-cohomology/. 一个很不错的笔记见 http://www.math.columbia.edu/~chaoli/doc/BhattEilenberg.html
 7. **[Lecture]** Geometrization of the local Langlands correspondence by scholze, https://www.bilibili.com/video/BV17y4y1B7vy?from=search&seid=11345345554728752100 Course homepage: http://www.math.uni-bonn.de/people/scholze/Geometrization/ Notes by Tony feng :https://www.mit.edu/~fengt/beyond.html
 8. **[Lecture]** Workshop on “Perfectoid spaces”https://www.icts.res.in/program/perfectoid2019/talks Course homepage:https://www.icts.res.in/program/perfectoid2019 Note：https://www.icts.res.in/event/page/18447
-9. **[Lecture]** The topic for this course is prismatic cohomology by kedlaya https://www.bilibili.com/video/BV1tX4y1G7bM Course homepage：https://math.ucsd.edu/~kedlaya/math206/
+9. **[Lecture]** The topic for this course is prismatic cohomology by kedlaya https://www.bilibili.com/video/BV1tX4y1G7bM Course homepage：https://kskedlaya.org/math206a-spr21/ Note:https://kskedlaya.org/prismatic/sec_overview.html
 10. **[Lecture]** Simons Lecture Series：p-adic algebraic geometry by Bhargav Bhatt 
 1 https://www.youtube.com/watch?v=zVICcM8PUEI&t=79s&ab_channel=StonyBrookMathematicsStonyBrookMathematics
 2 https://www.youtube.com/watch?v=HyAZFB5niNM&ab_channel=StonyBrookMathematicsStonyBrookMathematics
