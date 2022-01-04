@@ -52,6 +52,7 @@
 
 1. **[Lecture]** [What is a Stack?](https://www.youtube.com/watch?v=91fJ3GTM7Dk&list=LL&index=2&ab_channel=TaylorDupuy)
 2. **[Lecture]** [Introduction to stacks and moduli by Jarod Alper](https://sites.math.washington.edu/~jarod/math582C.html)
+3. **[Lecture]** [Moduli spaces in algebraic geometry by Ravi Vakil](https://math.stanford.edu/~vakil/22-245moduli/)
 
 ## Higher category theory
 
