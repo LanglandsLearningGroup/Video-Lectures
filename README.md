@@ -154,16 +154,16 @@ Lecture 12—13：继续B_st。weil deligne modules for de rham representations�
 
 ## Condensed Mathematics
 
-1. **[Popular science]** Condensed Mathematics https://www.youtube.com/watch?v=pzq1FvmEjaM&feature=youtu.be&ab_channel=GraduateMathematics
-2. **[Lecture]** Masterclass in Condensed Mathematics https://www.bilibili.com/video/BV1YD4y1X74T?p=1&share_medium=android&share_source=more&bbid=PAhsW2pYYQNnA2AGegZ6infoc&ts=1610875564950
-Note：https://www.math.uni-bonn.de/people/scholze/Condensed.pdf
-3. 相关报告：Joint Seminar TUM/UR: Condensed/Pyknotic Mathematics
-1 Condensed Seminar: Who cares about pyknosis https://www.msri.org/seminars/24809
-2 Condensed Seminar: Pyknotic sets https://www.msri.org/seminars/24915#description
-3 Condensed Seminar: Pyknotic abelian groups https://www.msri.org/seminars/24919
-4 Condensed Seminar: Animating pyknotic sets (AKA pyknotic spaces) https://www.msri.org/seminars/24750
-Homepage：http://www.mathematik.uni-regensburg.de/cisinski/condensed.html
-4. lecture notes in Chinese: https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6
+1. **[Popular science]** [Condensed Mathematics](https://www.youtube.com/watch?v=pzq1FvmEjaM&feature=youtu.be&ab_channel=GraduateMathematics)
+2. **[Lecture]** Masterclass in Condensed Mathematics [Bilibili](https://www.bilibili.com/video/BV1YD4y1X74T?p=1&share_medium=android&share_source=more&bbid=PAhsW2pYYQNnA2AGegZ6infoc&ts=1610875564950)
+[Note](https://www.math.uni-bonn.de/people/scholze/Condensed.pdf)
+3. **[Seminar]** Condensed Seminar
+    i. [Who cares about pyknosis](https://www.msri.org/seminars/24809)
+    ii. [Pyknotic sets](https://www.msri.org/seminars/24915#description)
+    iii. [Pyknotic abelian groups](https://www.msri.org/seminars/24919)
+    vi. [Animating pyknotic sets (AKA pyknotic spaces)](https://www.msri.org/seminars/24750)
+4.**[Seminar]** Joint Seminar TUM/UR: [Condensed/Pyknotic Mathematics](http://www.mathematik.uni-regensburg.de/cisinski/condensed.html)
+5. **[Seminar]** [凝聚态数学](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6)
 
 ## Deligne–Lusztig theory
 
