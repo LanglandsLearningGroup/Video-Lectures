@@ -143,7 +143,7 @@ Lecture11：继续cris rep。然后B_st的构造，semistable rep。
 Lecture 12—13：继续B_st。weil deligne modules for de rham representations。
 8. **[Lecture]** [p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by 欧阳毅 as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
 9. **[Lecture]** [School on Serre conjectures and the p-adic Langlands program](https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951) 
-可先看一下去年London NT study group的资料： https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html。这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
+可先看一下去年[London NT study group的资料](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html)这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
 10. **[Talk]** [Lifting Galois representations by Toby Gee](https://www.youtube.com/watch?v=CqiFc_lGRWA)
 11. **[Talk]** [Moduli of Galois Representations by David Savitt](https://www.youtube.com/watch?v=DKYkesElbeo)
 12. **[Talk]** [Serre weight conjectures in higher dimension by Brandon Levin](https://www.youtube.com/watch?v=du_ArZaa74w)
