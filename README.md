@@ -76,7 +76,7 @@
 [3](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_g6ortsdt)
 [4](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_nt9wgc2)
 [5](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_y4s3ep5b)
-3. **[Lecture]** [Representation theory and number theory by Benedict Gross](https://www.bilibili.com/video/BV1d441147Lz?p=1) [Note] (http://www.math.columbia.edu/~chaoli/docs/EilenbergLectures.html#sec10)
+3. **[Lecture]** [Representation theory and number theory by Benedict Gross](https://www.bilibili.com/video/BV1d441147Lz?p=1) [Note](http://www.math.columbia.edu/~chaoli/docs/EilenbergLectures.html#sec10)
 4. **[Lecture]** [Langlands correspondence and Bezrukavnikov’s equivalence by Geordie Williamson](https://www.youtube.com/watch?v=9icAHvcVRAc&list=PLtmvIY4GrVv9kMZmf4Fm1mHUGYzTPY8pV&ab_channel=SydneyMathematicalResearchInstitute-SMRI) [Note](https://arxiv.org/pdf/2103.02329.pdf)
 5. **[Lecture]** [Relative aspects of the Langlands program by Farrell Brumley](https://www.bilibili.com/video/BV19f4y1478E?p=1&share_medium=iphone&share_plat=ios&share_source=GENERIC&share_tag=s_i&timestamp=1615239713&unique_k=yvhg3e) [Course homepage](https://www.math.univ-paris13.fr/~brumley/M2-2021.html)
 6. **[Lecture]** [Sato-Tate distributions](https://www.math.arizona.edu/~swc/aws/2016/index.html)
