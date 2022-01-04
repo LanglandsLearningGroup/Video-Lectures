@@ -183,6 +183,6 @@ Lecture 12—13：继续B_st。weil deligne modules for de rham representations�
 [8](https://www.bilibili.com/video/BV16L411x7Pz?spm_id_from=333.999.0.0)
 [9](https://www.bilibili.com/video/BV1d64y1b7nG?spm_id_from=333.999.0.0)
 [10](https://www.bilibili.com/video/BV1bM4y1g7Xr?spm_id_from=333.999.0.0)
-2. **[Minicourse]** Counting points on Shimura Varieties by Yihang Zhu https://www.bilibili.com/video/BV1HL4y1z7e2?spm_id_from=333.999.0.0)
+2. **[Minicourse]** [Counting points on Shimura Varieties by Yihang Zhu](https://www.bilibili.com/video/BV1HL4y1z7e2?spm_id_from=333.999.0.0)
 
 
