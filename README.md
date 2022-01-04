@@ -162,7 +162,7 @@ Lecture 12—13：继续B_st。weil deligne modules for de rham representations�
     - [Pyknotic sets](https://www.msri.org/seminars/24915#description)
     - [Pyknotic abelian groups](https://www.msri.org/seminars/24919)
     - [Animating pyknotic sets (AKA pyknotic spaces)](https://www.msri.org/seminars/24750)
-4.**[Seminar]** Joint Seminar TUM/UR: [Condensed/Pyknotic Mathematics](http://www.mathematik.uni-regensburg.de/cisinski/condensed.html)
+4. **[Seminar]** Joint Seminar TUM/UR: [Condensed/Pyknotic Mathematics](http://www.mathematik.uni-regensburg.de/cisinski/condensed.html)
 5. **[Seminar]** [凝聚态数学](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6)
 
 ## Deligne–Lusztig theory
