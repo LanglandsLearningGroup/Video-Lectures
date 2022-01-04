@@ -49,10 +49,10 @@ Note: http://www.cmls.polytechnique.fr/perso/laszlo/gdtgabber/abelien.pdf
 1. **[Lecture]** Langlangds program by Frenkel https://www.bilibili.com/video/BV1XW411C7GN 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（他写了一本书）
 2. **[Talk]** Geometric class field theory https://www.msri.org/workshops/137/schedules/687
 
-## Stacks and moduli
+## Stacks and Moduli
 
-1. **[Lecture]** What is a Stack? https://www.youtube.com/watch?v=91fJ3GTM7Dk&list=LL&index=2&ab_channel=TaylorDupuy
-2. **[Lecture]** Introduction to stacks and moduli by Jarod Alper https://sites.math.washington.edu/~jarod/math582C.html
+1. **[Lecture]** [What is a Stack?](https://www.youtube.com/watch?v=91fJ3GTM7Dk&list=LL&index=2&ab_channel=TaylorDupuy)
+2. **[Lecture]** [Introduction to stacks and moduli](https://sites.math.washington.edu/~jarod/math582C.html)  by Jarod Alper 
 
 ## Higher category theory
 
