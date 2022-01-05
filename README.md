@@ -159,6 +159,7 @@ Lecture 12—13：继续B_st。weil deligne modules for de rham representations�
 14. **[Talk]** [Deformations of Galois representations and applications by Emerton](https://www.bilibili.com/video/BV19D4y1R7jP?p=1&share_medium=iphone&share_plat=ios&share_session_id=D1D361AA-61C7-418B-805D-293B6E28B011&share_source=COPY&share_tag=s_i&timestamp=1641256323&unique_k=F9RB5Uy)  [Note](http://www.math.uchicago.edu/~emerton/pdffiles/galois-talk.pdf)
 15. **[Talk]** [Locally symmetric spaces and torsion classes by Ana Caraiani](https://www.youtube.com/watch?v=H3IQKClavtY&t=105s&ab_channel=InstituteforAdvancedStudy)
 16. **[Talk]** [Number of points modulo p when p tends to infinity by Serre](https://www.youtube.com/watch?v=CoGMWDCmfUQ&ab_channel=InstituteforMathematicalSciences)
+17. **[Talk]** Locally symmetric spaces, and Galois representations by Peter Scholze [1](https://www.youtube.com/watch?v=cFdm0B9KLcQ&ab_channel=HarvardMath) [2](https://www.youtube.com/watch?v=MasLdfDcKZg&ab_channel=HarvardMath)
 
 
 ## Condensed Mathematics
