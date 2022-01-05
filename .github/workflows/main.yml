@@ -16,6 +16,7 @@ jobs:
       with:
         source_file: 'README.md'
         destination_repo: 'LanglandsLearningGroup/LanglandsLearningGroup.github.io'
+        destination_branch: 'master'
         destination_folder: '_posts'
         user_email: '941201yuan@gmail.com'
         user_name: 'YijunYuan'
