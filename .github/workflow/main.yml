@@ -1,0 +1,23 @@
+name: Push File
+
+on: push
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Sync file to blog
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'README.md'
+        destination_repo: 'LanglandsLearningGroup/LanglandsLearningGroup.github.io'
+        destination_folder: '_posts'
+        user_email: '941201yuan@gmail.com'
+        user_name: 'YijunYuan'
+        commit_message: 'Sync file to blog'
+        rename: '2022-01-04-video-lecture.md'
