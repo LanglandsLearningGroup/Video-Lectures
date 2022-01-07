@@ -67,7 +67,8 @@ permalink: video_lecture.html
 [7](https://www.bilibili.com/video/BV1sQ4y1r7dj?spm_id_from=333.999.0.0)
 [8](https://www.bilibili.com/video/BV16L411x7Pz?spm_id_from=333.999.0.0)
 [9](https://www.bilibili.com/video/BV1d64y1b7nG?spm_id_from=333.999.0.0)
-[10](https://www.bilibili.com/video/BV1bM4y1g7Xr?spm_id_from=333.999.0.0)
+[10](https://www.bilibili.com/video/BV1bM4y1g7Xr?spm_id_from=333.999.0.0) 
+[Note](https://bicmr.pku.edu.cn/cn/content/show/17-2528.html)
 2. **[Minicourse]** [Counting points on Shimura Varieties by Yihang Zhu](https://www.bilibili.com/video/BV1HL4y1z7e2?spm_id_from=333.999.0.0)
 3. **[Minicourse]** [perfectoid Shimura varieties by Ana Caraiani](https://www.math.arizona.edu/~swc/aws/2017/index.html)
 
