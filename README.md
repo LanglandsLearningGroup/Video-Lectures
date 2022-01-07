@@ -19,7 +19,7 @@ permalink: video_lecture.html
 5. **[Lecture]** [A friendly introduction to the theory of modular forms](https://www.math.arizona.edu/~swc/)
 6. **[Lecture]** [An introduction to modular forms by Yitang Zhang](https://www.bilibili.com/video/BV1B4411y7N1?from=search&seid=2629272658836513858)
 
-## $p$-adic Hodge theory, Galois representations and $p$-adic Langlands Program
+## Galois representations, $p$-adic Hodge theory and $p$-adic Langlands Program
 
 1. **[Lecture]** [A quick overview to p-adic Hodge theory by Liang Xiao](https://www.bilibili.com/video/BV17y4y127sG?p=14)
 2. **[Lecture]** Introduction to p-adic Hodge theory by Denis Benois 
