@@ -54,6 +54,7 @@ permalink: video_lecture.html
 16. **[Talk]** [Reciprocity laws for torsion classes by Ana Caraiani](https://www.youtube.com/watch?v=oW85L0OBY2E&ab_channel=InstituteforAdvancedStudy)
 17. **[Talk]** Locally symmetric spaces, and Galois representations by Peter Scholze [1](https://www.youtube.com/watch?v=cFdm0B9KLcQ&ab_channel=HarvardMath) [2](https://www.youtube.com/watch?v=MasLdfDcKZg&ab_channel=HarvardMath) [B站](https://www.bilibili.com/video/BV1BW411N7HA?p=1) B站更全！
 18. **[Talk]** [Number of points modulo p when p tends to infinity by Serre](https://www.youtube.com/watch?v=CoGMWDCmfUQ&ab_channel=InstituteforMathematicalSciences)
+19. **[Talk]** [Modularity of Galois Representations by Chandrashekhar Khare](https://www.youtube.com/watch?v=USwJHdGBh1M&list=PLcuoUv-DLxG8kxKa7NE6tDacJ_4BqMVcT&ab_channel=InstituteforAdvancedStudy)
 
 ## Shimura Varieties
 
@@ -70,7 +71,9 @@ permalink: video_lecture.html
 [10](https://www.bilibili.com/video/BV1bM4y1g7Xr?spm_id_from=333.999.0.0) 
 [Note](https://bicmr.pku.edu.cn/cn/content/show/17-2528.html)
 2. **[Minicourse]** [Counting points on Shimura Varieties by Yihang Zhu](https://www.bilibili.com/video/BV1HL4y1z7e2?spm_id_from=333.999.0.0)
-3. **[Minicourse]** [Perfectoid Shimura varieties by Ana Caraiani](https://www.math.arizona.edu/~swc/aws/2017/index.html)
+3. **[Talk]** [On torsion in the cohomology of Shimura varieties by Ana Caraiani](https://www.youtube.com/watch?v=Gib2PDj8-qw&t=195s&ab_channel=InstituteforAdvancedStudy)
+4. **[Minicourse]** [Perfectoid Shimura varieties by Ana Caraiani](https://www.math.arizona.edu/~swc/aws/2017/index.html)
+5. **[Minicourse]** An example based introduction to Shimura varieties and their compactifications by Kai-Wen Lan [1](https://www.youtube.com/watch?v=3ESH9URO3G4&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9) [2](https://www.youtube.com/watch?v=oSiM7wZo5Uc&list=PLCe-H2N8-ny6CuzEHzZshbqiuVVXIdVUe&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9) [3](https://www.youtube.com/watch?v=5wNmy_FB5X0&list=PLCe-H2N8-ny6CuzEHzZshbqiuVVXIdVUe&index=2&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9)
 
 ## Etale Cohomology, Perverse Sheaves and p-adic Cohomology
 
