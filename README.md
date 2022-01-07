@@ -19,6 +19,42 @@ permalink: video_lecture.html
 5. **[Lecture]** [A friendly introduction to the theory of modular forms](https://www.math.arizona.edu/~swc/)
 6. **[Lecture]** [An introduction to modular forms by Yitang Zhang](https://www.bilibili.com/video/BV1B4411y7N1?from=search&seid=2629272658836513858)
 
+## p-adic Hodge theory, Galois representations and p-adic Langlands Program
+
+1. **[Lecture]** [A quick overview to p-adic Hodge theory by Liang Xiao](https://www.bilibili.com/video/BV17y4y127sG?p=14)
+2. **[Lecture]** Introduction to p-adic Hodge theory by Denis Benois 
+[1](https://www.youtube.com/watch?v=zk8_hbE-w3o&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences)
+[2](https://www.youtube.com/watch?v=hqjDJshJmkw&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences)
+[3](https://www.youtube.com/watch?v=3n_sNGKgqgg&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences)
+[4](https://www.youtube.com/watch?v=YDBUfgsld1k&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences)
+3. **[Lecture]** An overview of the theory of p-adic Galois representations by Jared Weinstein $(\varphi,\Gamma)$-modules and p-adic Hodge theory by Gabriel Dospinescu
+[1](https://www.youtube.com/watch?v=1KBKSYTWxBA&t=16s)
+[2](https://www.youtube.com/watch?v=o1oIOqPWd8k&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9)
+[3](https://www.youtube.com/watch?v=GU4huGMbxbw&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9)
+[4](https://www.youtube.com/watch?v=gkPKbrPt9xU&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9)
+4. **[Lecture]** p-adic Hodge theory and deformations of Galois representations by Eugen Hellmann
+[1](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_t7jpqb5e)
+[2](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_0750vb3a)
+[3](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_bq0e6fqy)
+[4](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_qv4betgv)
+[5](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_dewzkyby)
+5. **[Lecture]** [An elementary but modern introduction to p-adic Hodge theory by Sean Howe](https://www.math.utah.edu/~howe/6370/)
+[B站](https://www.bilibili.com/video/BV1Bv411a7Gw?t=2759) 
+6. **[Lecture]** [$\ell$-adic representations by Adrian Iovita](https://www.bilibili.com/video/BV1cr4y1w71S)
+7. **[Lecture]** [$p$-adic Galois representations](https://www.bilibili.com/video/BV1WD4y1R7Kh) 
+8. **[Lecture]** [p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by 欧阳毅 as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
+9. **[Lecture]** [School on Serre conjectures and the p-adic Langlands program](https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951) 
+可先看一下去年[London NT study group的资料](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html)这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
+10. **[Talk]** [Lifting Galois representations by Toby Gee](https://www.youtube.com/watch?v=CqiFc_lGRWA)
+11. **[Talk]** [Moduli of Galois Representations by David Savitt](https://www.youtube.com/watch?v=DKYkesElbeo)
+12. **[Talk]** [Serre weight conjectures in higher dimension by Brandon Levin](https://www.youtube.com/watch?v=du_ArZaa74w)
+13. **[Talk]** [意大利国家高等数学研究院 (INdAM) 项目: 塞尔猜想与 p-进局部朗兰兹纲领](https://www.bilibili.com/video/BV1CA411L7zt?p=39&share_medium=iphone&share_plat=ios&share_session_id=A4A3A8F5-05A7-4A85-8A84-0CFBED0BD201&share_source=WEIXIN&share_tag=s_i&timestamp=1639402240&unique_k=czIkXlc)
+14. **[Talk]** [Deformations of Galois representations and applications by Emerton](https://www.bilibili.com/video/BV19D4y1R7jP?p=1&share_medium=iphone&share_plat=ios&share_session_id=D1D361AA-61C7-418B-805D-293B6E28B011&share_source=COPY&share_tag=s_i&timestamp=1641256323&unique_k=F9RB5Uy)  [Note](http://www.math.uchicago.edu/~emerton/pdffiles/galois-talk.pdf)
+15. **[Talk]** [Locally symmetric spaces and torsion classes by Ana Caraiani](https://www.youtube.com/watch?v=H3IQKClavtY&t=105s&ab_channel=InstituteforAdvancedStudy)
+16. **[Talk]** [Reciprocity laws for torsion classes by Ana Caraiani](https://www.youtube.com/watch?v=oW85L0OBY2E&ab_channel=InstituteforAdvancedStudy)
+17. **[Talk]** Locally symmetric spaces, and Galois representations by Peter Scholze [1](https://www.youtube.com/watch?v=cFdm0B9KLcQ&ab_channel=HarvardMath) [2](https://www.youtube.com/watch?v=MasLdfDcKZg&ab_channel=HarvardMath) [B站](https://www.bilibili.com/video/BV1BW411N7HA?p=1) B站更全！
+18. **[Talk]** [Number of points modulo p when p tends to infinity by Serre](https://www.youtube.com/watch?v=CoGMWDCmfUQ&ab_channel=InstituteforMathematicalSciences)
+
 ## Etale Cohomology, Perverse Sheaves and p-adic Cohomology
 
 1. **[Lecture]** [Etale cohomology by Daniel Litt](https://www.daniellitt.com/tale-cohomology) 
@@ -28,6 +64,7 @@ permalink: video_lecture.html
 4. **[Minicourse]** [on perverse sheaves by Williamson](https://www.youtube.com/watch?v=HQxKjquwbz4&list=PLp4l8vpEC0G_dNZfHpeh1NefZo3v3O6XG&ab_channel=SNSChannelMathematicalandNaturalSciences)
 5. **[Talk]** [Etale and crystalline companions by Kiran Kedlaya](https://www.ias.edu/video/members/2019/0415-KiranKedlaya)
 6. **[Talk]** [Arithmetic D-modules and existence of crystalline companion by Abe, Tomoyuki](https://library.cirm-math.fr/Record.htm?record=19282450124910006329&lang=ES)
+
 
 ## p-adic Geometry, Perfectoid Spaces, Prismatic Cohomology and Geometrization of the Local Langlands Program
 1. **[Lecture]** [$p$-adic geometry AWS2007](https://www.math.arizona.edu/~swc/aws/2007/notes.html)
@@ -49,31 +86,6 @@ permalink: video_lecture.html
 14. **[Minicourse]** [Bun_G, shtukas, and the local Langlands program](https://sites.google.com/view/rampageseminar/bun_g-minicourse)
 15. **[Talk]** [Geometrization of the local Langlands correspondence by Laurent Fargues](https://www.youtube.com/watch?v=gq5vB2xbRv0&ab_channel=FieldsInstitute)
 16. **[Lecture]** Fourier transform and the geometrization of local Langlands by Arthur-César Le Bras [1](https://www.youtube.com/watch?v=2E-Uz7yhpuA&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=2&ab_channel=GeoTopCPH) [2](https://www.youtube.com/watch?v=HI2v8U4zQy8&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=1&ab_channel=GeoTopCPH) [3](https://www.youtube.com/watch?v=4kXa6WKoVq8&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=3&ab_channel=GeoTopCPH) [4](https://www.youtube.com/watch?v=a66knWC0mCU&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=4&ab_channel=GeoTopCPH) [5](https://www.youtube.com/watch?v=zNfgK__-gY4&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=5&ab_channel=GeoTopCPH)
-
-## Geometric Langlands Program
-
-1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（他写了一本书）
-2. **[Talk]** [Geometric class field theory](https://www.msri.org/workshops/137/schedules/687)
-
-## Stacks and Moduli
-
-1. **[Lecture]** [What is a Stack?](https://www.youtube.com/watch?v=91fJ3GTM7Dk&list=LL&index=2&ab_channel=TaylorDupuy)
-2. **[Lecture]** [Introduction to stacks and moduli by Jarod Alper](https://sites.math.washington.edu/~jarod/math582C.html)
-3. **[Lecture]** [Moduli spaces in algebraic geometry by Ravi Vakil](https://math.stanford.edu/~vakil/22-245moduli/)
-
-## Higher Category Theory
-
-1. **[Popular science]** [$ \infty $-Category Theory for Undergraduates](https://www.youtube.com/watch?v=A6hXn6QCu0k&feature=youtu.be&ab_channel=EmilyRiehl)
-2. **[Lecture]** [Lecture course “Topological Cyclic homology”, WS 2020/21](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/tc.html)
-3. **[Lecture]** [Introduction to higher category theory by Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/inftycat2021/index.html)
-4. **[Lecture]** [Introduction to Derived Geometry](http://bicmr.pku.edu.cn/content/show/70-2449.html) Password：Geometry
-
-## Rational Points on Varieties
-
-1. **[Lecture]** [Rational points on curves by Henri Darmon](https://www.bilibili.com/video/BV1M5411H7f5) This article surveys a few of the highlights in the arithmetic of curves: the proof of the Mordell Conjecture, and the more detailed theorythat has developed around the classes of curves most studied until now by number theorists: modular curves, Fermat curves, and elliptic curves. [讲义下载地址](http://www.claymath.org/library/proceedings/cmip08c.pdf)
-2. **[Lecture]** [Faltings’ proof of the Mordell Conjecture by Jared Weinstein](https://www.bilibili.com/video/BV1Bt4y1B7VX) [Course homepage](https://sites.google.com/view/ma-842-spring-2021/home)
-3. **[Lecture]** [Arizona Winter School 2015: Arithmetic and Higher-Dimensional Varieties](https://www.math.arizona.edu/~swc/aws/2015/index.html)
-4. **[Talk]** [Introduction to the Mordell conjecture by 袁新意](https://www.bilibili.com/video/BV1534y1m7iy?spm_id_from=333.999.0.0)
 
 ## An Introduction to Langlands Program
 
@@ -104,6 +116,31 @@ permalink: video_lecture.html
 2. **[Lecture]** [Algebraic Number Theory II](https://homepages.uni-regensburg.de/~spj54141/teaching.html)
 3. **[Lecture]** [Algebraic Number Theory by Howe](https://www.math.utah.edu/~howe/2021-fall/6370/)
 
+## Geometric Langlands Program
+
+1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（他写了一本书）
+2. **[Talk]** [Geometric class field theory](https://www.msri.org/workshops/137/schedules/687)
+
+## Stacks and Moduli
+
+1. **[Lecture]** [What is a Stack?](https://www.youtube.com/watch?v=91fJ3GTM7Dk&list=LL&index=2&ab_channel=TaylorDupuy)
+2. **[Lecture]** [Introduction to stacks and moduli by Jarod Alper](https://sites.math.washington.edu/~jarod/math582C.html)
+3. **[Lecture]** [Moduli spaces in algebraic geometry by Ravi Vakil](https://math.stanford.edu/~vakil/22-245moduli/)
+
+## Higher Category Theory
+
+1. **[Popular science]** [$ \infty $-Category Theory for Undergraduates](https://www.youtube.com/watch?v=A6hXn6QCu0k&feature=youtu.be&ab_channel=EmilyRiehl)
+2. **[Lecture]** [Lecture course “Topological Cyclic homology”, WS 2020/21](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/tc.html)
+3. **[Lecture]** [Introduction to higher category theory by Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/inftycat2021/index.html)
+4. **[Lecture]** [Introduction to Derived Geometry](http://bicmr.pku.edu.cn/content/show/70-2449.html) Password：Geometry
+
+## Rational Points on Varieties
+
+1. **[Lecture]** [Rational points on curves by Henri Darmon](https://www.bilibili.com/video/BV1M5411H7f5) This article surveys a few of the highlights in the arithmetic of curves: the proof of the Mordell Conjecture, and the more detailed theorythat has developed around the classes of curves most studied until now by number theorists: modular curves, Fermat curves, and elliptic curves. [讲义下载地址](http://www.claymath.org/library/proceedings/cmip08c.pdf)
+2. **[Lecture]** [Faltings’ proof of the Mordell Conjecture by Jared Weinstein](https://www.bilibili.com/video/BV1Bt4y1B7VX) [Course homepage](https://sites.google.com/view/ma-842-spring-2021/home)
+3. **[Lecture]** [Arizona Winter School 2015: Arithmetic and Higher-Dimensional Varieties](https://www.math.arizona.edu/~swc/aws/2015/index.html)
+4. **[Talk]** [Introduction to the Mordell conjecture by 袁新意](https://www.bilibili.com/video/BV1534y1m7iy?spm_id_from=333.999.0.0)
+
 ## Iwasawa theory
 
 1. **[Lecture]** [Iwasawa theory by Ted Chinburg](https://www2.math.upenn.edu/~ted/720F18/hw-720SchedTab.html) [1](https://www.bilibili.com/video/BV1854y1p7go) [2](https://www.bilibili.com/video/BV1tV411q7UM)
@@ -114,52 +151,6 @@ permalink: video_lecture.html
 
 1. **[Lecture]** [Arizona Winter School 2012: Ramification and Geometry](https://www.math.arizona.edu/~swc/aws/2012/index.html)
 
-## p-adic Hodge theory, Galois representations and p-adic Langlands Program
-
-1. **[Lecture]** [A quick overview to p-adic Hodge theory by Liang Xiao](https://www.bilibili.com/video/BV17y4y127sG?p=14)
-2. **[Lecture]** Introduction to p-adic Hodge theory by Denis Benois 
-[1](https://www.youtube.com/watch?v=zk8_hbE-w3o&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences)
-[2](https://www.youtube.com/watch?v=hqjDJshJmkw&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences)
-[3](https://www.youtube.com/watch?v=3n_sNGKgqgg&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences)
-[4](https://www.youtube.com/watch?v=YDBUfgsld1k&feature=youtu.be&ab_channel=InternationalCentreforTheoreticalSciences)
-3. **[Lecture]** An overview of the theory of p-adic Galois representations by Jared Weinstein $(\varphi,\Gamma)$-modules and p-adic Hodge theory by Gabriel Dospinescu
-[1](https://www.youtube.com/watch?v=1KBKSYTWxBA&t=16s)
-[2](https://www.youtube.com/watch?v=o1oIOqPWd8k&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9)
-[3](https://www.youtube.com/watch?v=GU4huGMbxbw&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9)
-[4](https://www.youtube.com/watch?v=gkPKbrPt9xU&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9)
-4. **[Lecture]** p-adic Hodge theory and deformations of Galois representations by Eugen Hellmann
-[1](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_t7jpqb5e)
-[2](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_0750vb3a)
-[3](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_bq0e6fqy)
-[4](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_qv4betgv)
-[5](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_z85tr239/1_dewzkyby)
-5. **[Lecture]** [An elementary but modern introduction to p-adic Hodge theory by Sean Howe](https://www.math.utah.edu/~howe/6370/)
-[B站](https://www.bilibili.com/video/BV1Bv411a7Gw?t=2759) lecture1-2是motivication and overview，lecture 3-17：从p进数的构造开始，基本上是local field的内容，不超过serre local field那本书,Lecture18-23 讲了一些galois representation的基本定义啥的，来自几何的Galois rep，所以介绍椭圆曲线，tate module，一些例子，Lecture 24— p adic divisible group，tate theorem,B-ring. 完整的笔记合集见（105MB)：
-6. **[Lecture]** [$\ell$-adic representations by Adrian Iovita](https://www.bilibili.com/video/BV1cr4y1w71S)
-7. **[Lecture]** [$p$-adic Galois representations](https://www.bilibili.com/video/BV1WD4y1R7Kh) 
-overview：
-Lecture 1：很不错的动机介绍；后小部分开始正课：证明C_p是代数闭域，所以需要Krasner lemma；最后引出Ax sense Tate theorem，并做了部分证明准备。
-Lecture 2:给出Ax sen tate thm完整证明；给出几个例子；计算；介绍group cohomology；并且证明G_Q_p的C_p半线性表示等价类和group cohomology H^1(G_Q_p，GL_n(C_p）)有一个双射。引出下节课想要证明sen的定理：H^1 （G_Q_p，GL_n（C_p））＝H^1(Gal（K_infinity/Q_p），GL_n（K_infinity））
-Lecture3：这里follow B站视频的序号，P3是空的。
-Lecture 4—5:修正lecture 1一处typo。继续lecture2最后提到的sen的定理的证明。基本上是fontaine 欧阳毅 的书 section3-2的prop 3.16的证明。
-Lecture 6：fontaine的书section 3.2.4
-Lecture 7：fontaine的书 section 3.5.3 C_p admissible，Hodge tate representation，B admissible
-Lecture 8：继续hodge tate，witt vector，tilts，untilt，A_inf
-Lecture9：定义B_dR^＋，B_dR。de rham representation。
-Lecture 10：前面继续de rham rep，接着开始B_cris的动机，构造
-Lecture11：继续cris rep。然后B_st的构造，semistable rep。
-Lecture 12—13：继续B_st。weil deligne modules for de rham representations。
-8. **[Lecture]** [p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by 欧阳毅 as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
-9. **[Lecture]** [School on Serre conjectures and the p-adic Langlands program](https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951) 
-可先看一下去年[London NT study group的资料](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html)这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
-10. **[Talk]** [Lifting Galois representations by Toby Gee](https://www.youtube.com/watch?v=CqiFc_lGRWA)
-11. **[Talk]** [Moduli of Galois Representations by David Savitt](https://www.youtube.com/watch?v=DKYkesElbeo)
-12. **[Talk]** [Serre weight conjectures in higher dimension by Brandon Levin](https://www.youtube.com/watch?v=du_ArZaa74w)
-13. **[Talk]** [意大利国家高等数学研究院 (INdAM) 项目: 塞尔猜想与 p-进局部朗兰兹纲领](https://www.bilibili.com/video/BV1CA411L7zt?p=39&share_medium=iphone&share_plat=ios&share_session_id=A4A3A8F5-05A7-4A85-8A84-0CFBED0BD201&share_source=WEIXIN&share_tag=s_i&timestamp=1639402240&unique_k=czIkXlc)
-14. **[Talk]** [Deformations of Galois representations and applications by Emerton](https://www.bilibili.com/video/BV19D4y1R7jP?p=1&share_medium=iphone&share_plat=ios&share_session_id=D1D361AA-61C7-418B-805D-293B6E28B011&share_source=COPY&share_tag=s_i&timestamp=1641256323&unique_k=F9RB5Uy)  [Note](http://www.math.uchicago.edu/~emerton/pdffiles/galois-talk.pdf)
-15. **[Talk]** [Locally symmetric spaces and torsion classes by Ana Caraiani](https://www.youtube.com/watch?v=H3IQKClavtY&t=105s&ab_channel=InstituteforAdvancedStudy)
-16. **[Talk]** [Number of points modulo p when p tends to infinity by Serre](https://www.youtube.com/watch?v=CoGMWDCmfUQ&ab_channel=InstituteforMathematicalSciences)
-17. **[Talk]** Locally symmetric spaces, and Galois representations by Peter Scholze [1](https://www.youtube.com/watch?v=cFdm0B9KLcQ&ab_channel=HarvardMath) [2](https://www.youtube.com/watch?v=MasLdfDcKZg&ab_channel=HarvardMath) [B站](https://www.bilibili.com/video/BV1BW411N7HA?p=1) B站更全！
 
 
 ## Condensed Mathematics
