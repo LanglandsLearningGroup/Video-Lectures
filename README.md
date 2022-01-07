@@ -5,7 +5,7 @@ mathjax: true
 permalink: video_lecture.html
 ---
 
-# Video-Lectures 学习视频资源
+# Video-Lectures 
 
 ## Modular forms, Modularity Lifting theorem and Fermat last theorem 
 
