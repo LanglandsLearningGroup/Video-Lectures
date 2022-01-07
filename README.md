@@ -55,6 +55,22 @@ permalink: video_lecture.html
 17. **[Talk]** Locally symmetric spaces, and Galois representations by Peter Scholze [1](https://www.youtube.com/watch?v=cFdm0B9KLcQ&ab_channel=HarvardMath) [2](https://www.youtube.com/watch?v=MasLdfDcKZg&ab_channel=HarvardMath) [B站](https://www.bilibili.com/video/BV1BW411N7HA?p=1) B站更全！
 18. **[Talk]** [Number of points modulo p when p tends to infinity by Serre](https://www.youtube.com/watch?v=CoGMWDCmfUQ&ab_channel=InstituteforMathematicalSciences)
 
+## Shimura Varieties
+
+1. **[Minicourse]** Introduction to Shimura varieties by Xiaoliang
+[1](https://www.bilibili.com/video/BV1Gq4y1K7CA?spm_id_from=333.999.0.0)
+[2](https://www.bilibili.com/video/BV1ob4y127MC?spm_id_from=333.999.0.0)
+[3](https://www.bilibili.com/video/BV1cQ4y1k7Bf?spm_id_from=333.999.0.0)
+[4](https://www.bilibili.com/video/BV14g411c74Q?spm_id_from=333.999.0.0)
+[5](https://www.bilibili.com/video/BV1Wq4y1f75e?spm_id_from=333.999.0.0)
+[6](https://www.bilibili.com/video/BV18f4y1w7h1?spm_id_from=333.999.0.0)
+[7](https://www.bilibili.com/video/BV1sQ4y1r7dj?spm_id_from=333.999.0.0)
+[8](https://www.bilibili.com/video/BV16L411x7Pz?spm_id_from=333.999.0.0)
+[9](https://www.bilibili.com/video/BV1d64y1b7nG?spm_id_from=333.999.0.0)
+[10](https://www.bilibili.com/video/BV1bM4y1g7Xr?spm_id_from=333.999.0.0)
+2. **[Minicourse]** [Counting points on Shimura Varieties by Yihang Zhu](https://www.bilibili.com/video/BV1HL4y1z7e2?spm_id_from=333.999.0.0)
+3. **[Minicourse]** [perfectoid Shimura varieties by Ana Caraiani](https://www.math.arizona.edu/~swc/aws/2017/index.html)
+
 ## Etale Cohomology, Perverse Sheaves and p-adic Cohomology
 
 1. **[Lecture]** [Etale cohomology by Daniel Litt](https://www.daniellitt.com/tale-cohomology) 
@@ -169,20 +185,3 @@ permalink: video_lecture.html
 ## Deligne–Lusztig Theory
 
 1. **[Lecture]** [Introduction to Deligne Lusztig Theory](https://www.youtube.com/watch?v=eQC9i4ul-K4&ab_channel=NingShan)
-
-## Shimura Varieties
-
-1. **[Minicourse]** Introduction to Shimura varieties by Xiaoliang
-[1](https://www.bilibili.com/video/BV1Gq4y1K7CA?spm_id_from=333.999.0.0)
-[2](https://www.bilibili.com/video/BV1ob4y127MC?spm_id_from=333.999.0.0)
-[3](https://www.bilibili.com/video/BV1cQ4y1k7Bf?spm_id_from=333.999.0.0)
-[4](https://www.bilibili.com/video/BV14g411c74Q?spm_id_from=333.999.0.0)
-[5](https://www.bilibili.com/video/BV1Wq4y1f75e?spm_id_from=333.999.0.0)
-[6](https://www.bilibili.com/video/BV18f4y1w7h1?spm_id_from=333.999.0.0)
-[7](https://www.bilibili.com/video/BV1sQ4y1r7dj?spm_id_from=333.999.0.0)
-[8](https://www.bilibili.com/video/BV16L411x7Pz?spm_id_from=333.999.0.0)
-[9](https://www.bilibili.com/video/BV1d64y1b7nG?spm_id_from=333.999.0.0)
-[10](https://www.bilibili.com/video/BV1bM4y1g7Xr?spm_id_from=333.999.0.0)
-2. **[Minicourse]** [Counting points on Shimura Varieties by Yihang Zhu](https://www.bilibili.com/video/BV1HL4y1z7e2?spm_id_from=333.999.0.0)
-
-
