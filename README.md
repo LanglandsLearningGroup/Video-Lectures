@@ -19,7 +19,7 @@ permalink: video_lecture.html
 5. **[Lecture]** [A friendly introduction to the theory of modular forms](https://www.math.arizona.edu/~swc/)
 6. **[Lecture]** [An introduction to modular forms by Yitang Zhang](https://www.bilibili.com/video/BV1B4411y7N1?from=search&seid=2629272658836513858)
 
-## p-adic Hodge theory, Galois representations and p-adic Langlands Program
+## $p$-adic Hodge theory, Galois representations and $p$-adic Langlands Program
 
 1. **[Lecture]** [A quick overview to p-adic Hodge theory by Liang Xiao](https://www.bilibili.com/video/BV17y4y127sG?p=14)
 2. **[Lecture]** Introduction to p-adic Hodge theory by Denis Benois 
@@ -75,7 +75,7 @@ permalink: video_lecture.html
 4. **[Minicourse]** [Perfectoid Shimura varieties by Ana Caraiani](https://www.math.arizona.edu/~swc/aws/2017/index.html)
 5. **[Minicourse]** An example based introduction to Shimura varieties and their compactifications by Kai-Wen Lan [1](https://www.youtube.com/watch?v=3ESH9URO3G4&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9) [2](https://www.youtube.com/watch?v=oSiM7wZo5Uc&list=PLCe-H2N8-ny6CuzEHzZshbqiuVVXIdVUe&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9) [3](https://www.youtube.com/watch?v=5wNmy_FB5X0&list=PLCe-H2N8-ny6CuzEHzZshbqiuVVXIdVUe&index=2&ab_channel=MathematicsvideoVAROQUIHerv%C3%A9)
 
-## Etale Cohomology, Perverse Sheaves and p-adic Cohomology
+## Etale Cohomology, Perverse Sheaves and $p$-adic Cohomology
 
 1. **[Lecture]** [Etale cohomology by Daniel Litt](https://www.daniellitt.com/tale-cohomology) 
 2. **[Talk]** [Finiteness Theorems for Etale Cohomology of Excellent Schemes by Ofer Gabber](https://www.ias.edu/video/geometry-and-arithmetic-finiteness-theorems-etale-cohomology-excellent-schemes)
@@ -86,7 +86,7 @@ permalink: video_lecture.html
 6. **[Talk]** [Arithmetic D-modules and existence of crystalline companion by Abe, Tomoyuki](https://library.cirm-math.fr/Record.htm?record=19282450124910006329&lang=ES)
 
 
-## p-adic Geometry, Perfectoid Spaces, Prismatic Cohomology and Geometrization of the Local Langlands Program
+## $p$-adic Geometry, Perfectoid Spaces, Prismatic Cohomology and Geometrization of the Local Langlands Program
 1. **[Lecture]** [$p$-adic geometry AWS2007](https://www.math.arizona.edu/~swc/aws/2007/notes.html)
 2. **[Lecture]** [Perfectoid Spaces and the Weight-Monodromy Conjecture by Peter Scholze at IHES, 2011](http://www.ihes.fr/~abbes/CAGA/scholze.html) [B站](https://www.bilibili.com/video/BV1vs411E7wP) 这是Scholze 解读他本人的博士论文 [perfectoid space](http://www.ihes.fr/~abbes/CAGA/PerfectoidSpaces.pdf)
 3. **[Lecture]** [Overview: Perfectoid Spaces and their Applications](https://www.youtube.com/watch?v=CiN7X7V-HOE&t=2646s&ab_channel=xuan-gottfriedYANG) 和 [ICM 2014](https://www.youtube.com/watch?v=82nhZ1KtcQs&ab_channel=SeoulICMVOD) 前者[笔记](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/Overview.pdf) ；后者[笔记](https://www.math.uni-bonn.de/people/scholze/ICM.pdf)
