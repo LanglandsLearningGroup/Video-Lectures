@@ -57,7 +57,7 @@ permalink: video_lecture.html
 
 ## Shimura Varieties
 
-1. **[Minicourse]** Introduction to Shimura varieties by Xiaoliang
+1. **[Minicourse]** Introduction to Shimura varieties by Liang Xiao
 [1](https://www.bilibili.com/video/BV1Gq4y1K7CA?spm_id_from=333.999.0.0)
 [2](https://www.bilibili.com/video/BV1ob4y127MC?spm_id_from=333.999.0.0)
 [3](https://www.bilibili.com/video/BV1cQ4y1k7Bf?spm_id_from=333.999.0.0)
