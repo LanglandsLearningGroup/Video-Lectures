@@ -70,7 +70,7 @@ permalink: video_lecture.html
 [10](https://www.bilibili.com/video/BV1bM4y1g7Xr?spm_id_from=333.999.0.0) 
 [Note](https://bicmr.pku.edu.cn/cn/content/show/17-2528.html)
 2. **[Minicourse]** [Counting points on Shimura Varieties by Yihang Zhu](https://www.bilibili.com/video/BV1HL4y1z7e2?spm_id_from=333.999.0.0)
-3. **[Minicourse]** [perfectoid Shimura varieties by Ana Caraiani](https://www.math.arizona.edu/~swc/aws/2017/index.html)
+3. **[Minicourse]** [Perfectoid Shimura varieties by Ana Caraiani](https://www.math.arizona.edu/~swc/aws/2017/index.html)
 
 ## Etale Cohomology, Perverse Sheaves and p-adic Cohomology
 
