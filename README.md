@@ -44,7 +44,7 @@ permalink: video_lecture.html
 7. **[Lecture]** [$p$-adic Galois representations](https://www.bilibili.com/video/BV1WD4y1R7Kh) 
 8. **[Lecture]** [p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by 欧阳毅 as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
 9. **[Lecture]** [School on Serre conjectures and the p-adic Langlands program](https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951) 
-可先看一下去年[London NT study group的资料](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html)这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
+可先看[London NT study group的资料](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html)这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
 10. **[Talk]** [Lifting Galois representations by Toby Gee](https://www.youtube.com/watch?v=CqiFc_lGRWA)
 11. **[Talk]** [Moduli of Galois Representations by David Savitt](https://www.youtube.com/watch?v=DKYkesElbeo)
 12. **[Talk]** [Serre weight conjectures in higher dimension by Brandon Levin](https://www.youtube.com/watch?v=du_ArZaa74w)
@@ -118,7 +118,7 @@ permalink: video_lecture.html
 
 ## Geometric Langlands Program
 
-1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（他写了一本书）
+1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（这是他写的书）
 2. **[Talk]** [Geometric class field theory](https://www.msri.org/workshops/137/schedules/687)
 
 ## Stacks and Moduli
@@ -136,7 +136,7 @@ permalink: video_lecture.html
 
 ## Rational Points on Varieties
 
-1. **[Lecture]** [Rational points on curves by Henri Darmon](https://www.bilibili.com/video/BV1M5411H7f5) This article surveys a few of the highlights in the arithmetic of curves: the proof of the Mordell Conjecture, and the more detailed theorythat has developed around the classes of curves most studied until now by number theorists: modular curves, Fermat curves, and elliptic curves. [讲义下载地址](http://www.claymath.org/library/proceedings/cmip08c.pdf)
+1. **[Lecture]** [Rational points on curves by Henri Darmon](https://www.bilibili.com/video/BV1M5411H7f5) [Note](http://www.claymath.org/library/proceedings/cmip08c.pdf)
 2. **[Lecture]** [Faltings’ proof of the Mordell Conjecture by Jared Weinstein](https://www.bilibili.com/video/BV1Bt4y1B7VX) [Course homepage](https://sites.google.com/view/ma-842-spring-2021/home)
 3. **[Lecture]** [Arizona Winter School 2015: Arithmetic and Higher-Dimensional Varieties](https://www.math.arizona.edu/~swc/aws/2015/index.html)
 4. **[Talk]** [Introduction to the Mordell conjecture by 袁新意](https://www.bilibili.com/video/BV1534y1m7iy?spm_id_from=333.999.0.0)
@@ -144,7 +144,7 @@ permalink: video_lecture.html
 ## Iwasawa theory
 
 1. **[Lecture]** [Iwasawa theory by Ted Chinburg](https://www2.math.upenn.edu/~ted/720F18/hw-720SchedTab.html) [1](https://www.bilibili.com/video/BV1854y1p7go) [2](https://www.bilibili.com/video/BV1tV411q7UM)
-[Course homepage](https://www2.math.upenn.edu/~ted/720F18/info.html#texts) In this course I will give an overview of Iwasawa theory and of some aspects of the theory of modular forms and Galois representations. The eventual goal of the course is to describe some current research topics having to do with higher codimension Iwasawa theory.
+[Course homepage](https://www2.math.upenn.edu/~ted/720F18/info.html#texts) 
 2. **[Lecture]** [Arizona Winter School 2018: Iwasawa Theory](https://www.math.arizona.edu/~swc/aws/2018/index.html)
 
 ## Ramification Theory and Geometry
