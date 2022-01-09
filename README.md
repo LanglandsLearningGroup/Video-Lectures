@@ -128,6 +128,8 @@ permalink: video_lecture.html
 [2](https://www.youtube.com/watch?v=NN3Gt6iBj3w&ab_channel=HarvardMath)
 [Note](http://www.math.uchicago.edu/~fcale/papers/CDM.pdf)
 9. **[Popular science]** [Modular forms and Galois representations by Sug Woo Shin](https://www.youtube.com/watch?v=2cGTHuiRo3E&ab_channel=MathnetKorea)
+10. **[Lecture]** [Between electric-magnetic duality and the Langlands program](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf) 
+by David Ben-Zvi
 
 ## Algebraic Number Theory
 
