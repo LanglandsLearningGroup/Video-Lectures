@@ -16,7 +16,7 @@ permalink: video_lecture.html
 共四讲，后两讲画了很多图，很形象，强推
 4. **[Lecture]** [Fermat’s Last Theorem Conference (Summer 1995)](https://www.bilibili.com/video/BV1rt411R7uM)
 视频有些模糊，可以对照着 [书](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/标准版.pdf) 看
-5. **[Lecture]** [A friendly introduction to the theory of modular forms](https://www.math.arizona.edu/~swc/)
+5. **[Lecture]** [Arizona Winter Semester 2021 and 2022](https://www.math.arizona.edu/~swc/index.html)
 6. **[Lecture]** [An introduction to modular forms by Yitang Zhang](https://www.bilibili.com/video/BV1B4411y7N1?from=search&seid=2629272658836513858)
 
 ## Galois representations, $p$-adic Hodge theory and $p$-adic Langlands Program
