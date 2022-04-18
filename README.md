@@ -56,7 +56,7 @@ permalink: video_lecture.html
 18. **[Talk]** [Number of points modulo p when p tends to infinity by Serre](https://www.youtube.com/watch?v=CoGMWDCmfUQ&ab_channel=InstituteforMathematicalSciences)
 19. **[Talk]** [Modularity of Galois Representations by Chandrashekhar Khare](https://www.youtube.com/watch?v=USwJHdGBh1M&list=PLcuoUv-DLxG8kxKa7NE6tDacJ_4BqMVcT&ab_channel=InstituteforAdvancedStudy)
 20. **[Talk]** [Even Galois Representations and the Fontaine-Mazur conjecture by Frank Calegari](https://www.ias.edu/video/nt/calegari)
-21. **[Talk]** [Local (\ell = p) Galois Deformation Rings by Ashwin Iyengar](https://www.youtube.com/watch?v=gSX787mLFSs&ab_channel=InstituteforAdvancedStudy)
+21. **[Talk]** [Local ($\ell = p$) Galois Deformation Rings by Ashwin Iyengar](https://www.youtube.com/watch?v=gSX787mLFSs&ab_channel=InstituteforAdvancedStudy)
 22. **[Talk]** [On local Galois deformation rings by Vytautas Paskunas](https://www.youtube.com/watch?v=IiCIiRoCrTU&ab_channel=ColumbiaUniversityDepartmentofMathematics)
 
 ## Shimura Varieties
