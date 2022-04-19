@@ -146,6 +146,7 @@ by David Ben-Zvi
 
 1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（这是他写的书）
 2. **[Talk]** [Geometric class field theory](https://www.msri.org/workshops/137/schedules/687)
+3. **[Talk]** [Classical and geometric Langlands over function fields By Dennis Gaitsgory](https://www.bilibili.com/video/BV17Q4y1v734?spm_id_from=333.337.search-card.all.click)
 
 ## Stacks and Moduli
 
