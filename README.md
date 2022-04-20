@@ -143,7 +143,7 @@ by David Ben-Zvi
 
 ## Geometric Langlands Program
 
-1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) 第一P是一个overview，第二P到第五P讲了函数域的langlands correspondence，还有是怎么到达几何langlands的，第五P讲了一维的证明，也就是deligne的GCFT。第6P到最后讲复数域上的情形，还有他的langlands correspondence for loop group（这是他写的书）
+1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) P1:overview, P2-P5: langlands correspondence for function fields; P5: Deligne's proof of GCFT; P6: the case of over complex number and langlands correspondence for loop group
 2. **[Talk]** [Geometric class field theory](https://www.msri.org/workshops/137/schedules/687)
 3. **[Talk]** [Classical and geometric Langlands over function fields By Dennis Gaitsgory](https://www.bilibili.com/video/BV17Q4y1v734?spm_id_from=333.337.search-card.all.click)
 
@@ -165,7 +165,7 @@ by David Ben-Zvi
 1. **[Lecture]** [Rational points on curves by Henri Darmon](https://www.bilibili.com/video/BV1M5411H7f5) [Note](http://www.claymath.org/library/proceedings/cmip08c.pdf)
 2. **[Lecture]** [Faltings’ proof of the Mordell Conjecture by Jared Weinstein](https://www.bilibili.com/video/BV1Bt4y1B7VX) [Course homepage](https://sites.google.com/view/ma-842-spring-2021/home)
 3. **[Lecture]** [Arizona Winter School 2015: Arithmetic and Higher-Dimensional Varieties](https://www.math.arizona.edu/~swc/aws/2015/index.html)
-4. **[Talk]** [Introduction to the Mordell conjecture by 袁新意](https://www.bilibili.com/video/BV1534y1m7iy?spm_id_from=333.999.0.0)
+4. **[Talk]** [Introduction to the Mordell conjecture by Xinyi Yuan](https://www.bilibili.com/video/BV1534y1m7iy?spm_id_from=333.999.0.0)
 
 ## Iwasawa theory
 
@@ -190,7 +190,7 @@ by David Ben-Zvi
     - [Pyknotic abelian groups](https://www.msri.org/seminars/24919)
     - [Animating pyknotic sets (AKA pyknotic spaces)](https://www.msri.org/seminars/24750)
 4. **[Seminar]** Joint Seminar TUM/UR: [Condensed/Pyknotic Mathematics](http://www.mathematik.uni-regensburg.de/cisinski/condensed.html)
-5. **[Seminar]** [凝聚态数学](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6)
+5. **[Seminar]** [Condensed Mathematics (in Chinese)](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6)
 
 ## Deligne–Lusztig Theory
 
