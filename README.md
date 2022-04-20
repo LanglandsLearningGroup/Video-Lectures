@@ -13,9 +13,9 @@ permalink: video_lecture.html
 2. **[Lecture]** [Modularity Lifting by Patrick Allen](https://patrick-allen.github.io/teaching/f20/f20-modularity-lifting.html)
 [B站](https://www.bilibili.com/video/BV1mv411k76k) [Notes on lecture by Wang](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/Modularity-Lifting-by-Patrick-Allen.pdf)
 3. **[Lecture]** [Modularity lifting theorems by Toby Gee](https://www.math.arizona.edu/~swc/aws/2013/index.html)
-共四讲，后两讲画了很多图，很形象，强推
+
 4. **[Lecture]** [Fermat’s Last Theorem Conference (Summer 1995)](https://www.bilibili.com/video/BV1rt411R7uM)
-视频有些模糊，可以对照着 [书](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/标准版.pdf) 看
+The video is not clear enough, you can compare with [book](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/标准版.pdf) 
 5. **[Lecture]** [Arizona Winter Semester 2021 and 2022](https://www.math.arizona.edu/~swc/index.html) [B站](https://www.bilibili.com/video/BV1ku411v7zs?p=1)
 6. **[Lecture]** [An introduction to modular forms by Yitang Zhang](https://www.bilibili.com/video/BV1B4411y7N1?from=search&seid=2629272658836513858)
 
@@ -44,7 +44,7 @@ permalink: video_lecture.html
 7. **[Lecture]** [$p$-adic Galois representations](https://www.bilibili.com/video/BV1WD4y1R7Kh) 
 8. **[Lecture]** [p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by 欧阳毅 as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
 9. **[Lecture]** [School on Serre conjectures and the p-adic Langlands program](https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951) 
-可先看[London NT study group的资料](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html)这个是从最早的Serre modularity conjecture开始说起，能一步步看到它是怎么演变的。
+you can have a look first at [stuff on London NT study group](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html) This starts with Serre modularity conjecture, and you can see how it evolved step by step.
 10. **[Talk]** [Lifting Galois representations by Toby Gee](https://www.youtube.com/watch?v=CqiFc_lGRWA)
 11. **[Talk]** [Moduli of Galois Representations by David Savitt](https://www.youtube.com/watch?v=DKYkesElbeo)
 12. **[Talk]** [Serre weight conjectures in higher dimension by Brandon Levin](https://www.youtube.com/watch?v=du_ArZaa74w)
@@ -92,7 +92,7 @@ permalink: video_lecture.html
 
 ## $p$-adic Geometry, Perfectoid Spaces, Prismatic Cohomology and Geometrization of the Local Langlands Program
 1. **[Lecture]** [$p$-adic geometry AWS2007](https://www.math.arizona.edu/~swc/aws/2007/notes.html)
-2. **[Lecture]** [Perfectoid Spaces and the Weight-Monodromy Conjecture by Peter Scholze at IHES, 2011](http://www.ihes.fr/~abbes/CAGA/scholze.html) [B站](https://www.bilibili.com/video/BV1vs411E7wP) 这是Scholze 解读他本人的博士论文 [perfectoid space](http://www.ihes.fr/~abbes/CAGA/PerfectoidSpaces.pdf)
+2. **[Lecture]** [Perfectoid Spaces and the Weight-Monodromy Conjecture by Peter Scholze at IHES, 2011](http://www.ihes.fr/~abbes/CAGA/scholze.html) [B站](https://www.bilibili.com/video/BV1vs411E7wP) This is Scholze's interpretation of his own doctoral dissertation [perfectoid space](http://www.ihes.fr/~abbes/CAGA/PerfectoidSpaces.pdf)
 3. **[Lecture]** [Overview: Perfectoid Spaces and their Applications](https://www.youtube.com/watch?v=CiN7X7V-HOE&t=2646s&ab_channel=xuan-gottfriedYANG) 和 [ICM 2014](https://www.youtube.com/watch?v=82nhZ1KtcQs&ab_channel=SeoulICMVOD) 前者[笔记](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/Overview.pdf) ；后者[笔记](https://www.math.uni-bonn.de/people/scholze/ICM.pdf)
 4. **[Lecture]** [Berkeley lectures on $p$-adic geometry by scholze](https://www.bilibili.com/video/BV15s41147ke) [Note](https://www.math.uni-bonn.de/people/scholze/Berkeley.pdf)
 5. **[Lecture]** [AWS2017,applications of perfectoid space](https://www.math.arizona.edu/~swc/aws/2017/index.html)
@@ -113,7 +113,7 @@ permalink: video_lecture.html
 
 ## An Introduction to Langlands Program
 
-1. **[Lecture]** [Automorphic Forms and the Langlands Program by Kevin Buzzard at the Summer Graduate School of MSRI](https://www.bilibili.com/video/BV1YW411L7Zr) [Course homepage](http://wwwf.imperial.ac.uk/~buzzard/MSRI/) （底下有完整Latex笔记）
+1. **[Lecture]** [Automorphic Forms and the Langlands Program by Kevin Buzzard at the Summer Graduate School of MSRI](https://www.bilibili.com/video/BV1YW411L7Zr) [Course homepage](http://wwwf.imperial.ac.uk/~buzzard/MSRI/) (You can find the Latex notes below)
 2. **[Lecture]** The local Langlands correspondence and local-global compatibility for $GL_2$ by Sug Woo Shin 
 [1](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_47ritgx2)
 [2](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_0ijb4ug0)
