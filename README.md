@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 视频讲座
+title: video_lecture
 mathjax: true
 permalink: video_lecture.html
 ---
