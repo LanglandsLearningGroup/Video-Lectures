@@ -41,7 +41,7 @@ The video is not clear enough, you can compare with [book](https://yufanluo.wpco
 [B站](https://www.bilibili.com/video/BV1Bv411a7Gw?t=2759) 
 6. **[Lecture]** [$\ell$-adic representations by Adrian Iovita](https://www.bilibili.com/video/BV1cr4y1w71S)
 7. **[Lecture]** [$p$-adic Galois representations](https://www.bilibili.com/video/BV1WD4y1R7Kh) 
-8. **[Lecture]** [p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by 欧阳毅 as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
+8. **[Lecture]** [p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by Yangyi Ou as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
 9. **[Lecture]** [School on Serre conjectures and the p-adic Langlands program](https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951) 
 you can have a look first at [stuff on London NT study group](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html) This starts with Serre modularity conjecture, and you can see how it evolved step by step.
 10. **[Talk]** [Lifting Galois representations by Toby Gee](https://www.youtube.com/watch?v=CqiFc_lGRWA)
@@ -51,7 +51,7 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 14. **[Talk]** [Deformations of Galois representations and applications by Emerton](https://www.bilibili.com/video/BV19D4y1R7jP?p=1&share_medium=iphone&share_plat=ios&share_session_id=D1D361AA-61C7-418B-805D-293B6E28B011&share_source=COPY&share_tag=s_i&timestamp=1641256323&unique_k=F9RB5Uy)  [Note](http://www.math.uchicago.edu/~emerton/pdffiles/galois-talk.pdf)
 15. **[Talk]** [Locally symmetric spaces and torsion classes by Ana Caraiani](https://www.youtube.com/watch?v=H3IQKClavtY&t=105s&ab_channel=InstituteforAdvancedStudy)
 16. **[Talk]** [Reciprocity laws for torsion classes by Ana Caraiani](https://www.youtube.com/watch?v=oW85L0OBY2E&ab_channel=InstituteforAdvancedStudy)
-17. **[Talk]** Locally symmetric spaces, and Galois representations by Peter Scholze [1](https://www.youtube.com/watch?v=cFdm0B9KLcQ&ab_channel=HarvardMath) [2](https://www.youtube.com/watch?v=MasLdfDcKZg&ab_channel=HarvardMath) [B站](https://www.bilibili.com/video/BV1BW411N7HA?p=1) B站更全！
+17. **[Talk]** Locally symmetric spaces, and Galois representations by Peter Scholze [1](https://www.youtube.com/watch?v=cFdm0B9KLcQ&ab_channel=HarvardMath) [2](https://www.youtube.com/watch?v=MasLdfDcKZg&ab_channel=HarvardMath) [B站](https://www.bilibili.com/video/BV1BW411N7HA?p=1) Recommended to watch B站
 18. **[Talk]** [Number of points modulo p when p tends to infinity by Serre](https://www.youtube.com/watch?v=CoGMWDCmfUQ&ab_channel=InstituteforMathematicalSciences)
 19. **[Talk]** [Modularity of Galois Representations by Chandrashekhar Khare](https://www.youtube.com/watch?v=USwJHdGBh1M&list=PLcuoUv-DLxG8kxKa7NE6tDacJ_4BqMVcT&ab_channel=InstituteforAdvancedStudy)
 20. **[Talk]** [Even Galois Representations and the Fontaine-Mazur conjecture by Frank Calegari](https://www.ias.edu/video/nt/calegari)
