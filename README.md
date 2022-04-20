@@ -56,6 +56,7 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 21. **[Talk]** [Local ($\ell = p$) Galois Deformation Rings by Ashwin Iyengar](https://www.youtube.com/watch?v=gSX787mLFSs&ab_channel=InstituteforAdvancedStudy)
 22. **[Talk]** [On local Galois deformation rings by Vytautas Paskunas](https://www.youtube.com/watch?v=IiCIiRoCrTU&ab_channel=ColumbiaUniversityDepartmentofMathematics)
 23. **[Minicourse]** An introduction to deformation of Galois Representations by Ehsan Shahoseini [1](https://www.youtube.com/watch?v=Fe27gnX_jr4&ab_channel=BhaskaracharyaPratishthana%2CPune) [2](https://www.youtube.com/watch?v=vj7YntHMdVU&t=10s&ab_channel=BhaskaracharyaPratishthana%2CPune)
+24. **[Talk]** [Moduli Stacks of Galois Representations by Mathew Emerton](https://www.youtube.com/watch?v=hvNoxEFEgfU)
 
 ## Shimura Varieties
 
