@@ -13,7 +13,6 @@ permalink: video_lecture.html
 2. **[Lecture]** [Modularity Lifting by Patrick Allen](https://patrick-allen.github.io/teaching/f20/f20-modularity-lifting.html)
 [B站](https://www.bilibili.com/video/BV1mv411k76k) [Notes on lecture by Wang](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/Modularity-Lifting-by-Patrick-Allen.pdf)
 3. **[Lecture]** [Modularity lifting theorems by Toby Gee](https://www.math.arizona.edu/~swc/aws/2013/index.html)
-
 4. **[Lecture]** [Fermat’s Last Theorem Conference (Summer 1995)](https://www.bilibili.com/video/BV1rt411R7uM)
 The video is not clear enough, you can compare with [book](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/标准版.pdf) 
 5. **[Lecture]** [Arizona Winter Semester 2021 and 2022](https://www.math.arizona.edu/~swc/index.html) [B站](https://www.bilibili.com/video/BV1ku411v7zs?p=1)
