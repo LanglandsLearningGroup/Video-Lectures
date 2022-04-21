@@ -39,7 +39,7 @@ The video is not clear enough, you can compare with [book](https://yufanluo.wpco
 [B站](https://www.bilibili.com/video/BV1Bv411a7Gw?t=2759) 
 6. **[Lecture]** [$\ell$-adic representations by Adrian Iovita](https://www.bilibili.com/video/BV1cr4y1w71S)
 7. **[Lecture]** [$p$-adic Galois representations](https://www.bilibili.com/video/BV1WD4y1R7Kh) 
-8. **[Lecture]** [p-adic functions, p-adic representations and (varphi, Gamma)-modules Given by Yangyi Ou as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
+8. **[Lecture]** [p-adic functions, p-adic representations and ($\varphi, \Gamma)$-modules Given by Yangyi Ou as ASARC intensive lectures at KAIST, 2009](https://www.bilibili.com/video/BV1VW411w7HG?t=13)
 9. **[Lecture]** [School on Serre conjectures and the p-adic Langlands program](https://mediaspace.unipd.it/channel/School+on+Serre+conjectures+and+the+p-adic+Langlands+program/119214951) 
 you can have a look first at [stuff on London NT study group](https://nms.kcl.ac.uk/james.newton/lntsg/lntsg2020.html) It starts with Serre's modularity conjecture, and you can see how it evolved step by step.
 10. **[Talk]** [Lifting Galois representations by Toby Gee](https://www.youtube.com/watch?v=CqiFc_lGRWA)
