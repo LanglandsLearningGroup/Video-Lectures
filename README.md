@@ -58,7 +58,7 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 23. **[Minicourse]** An introduction to deformation of Galois Representations by Ehsan Shahoseini [1](https://www.youtube.com/watch?v=Fe27gnX_jr4&ab_channel=BhaskaracharyaPratishthana%2CPune) [2](https://www.youtube.com/watch?v=vj7YntHMdVU&t=10s&ab_channel=BhaskaracharyaPratishthana%2CPune)
 24. **[Talk]** [Moduli Stacks of Galois Representations by Mathew Emerton](https://www.youtube.com/watch?v=hvNoxEFEgfU)
 25. **[Talk]** [Moduli stacks of $(\varphi,\Gamma)$-modules by Toby Gee](https://www.youtube.com/watch?v=mDo1axGnHYs&ab_channel=Centrederecherchesmath%C3%A9matiques-CRM)
-26. **[Lecture]** [Deformation Theory and Moduli in Algebraic Geometry](https://www.msri.org/summer_schools/419#) [B站](https://www.bilibili.com/video/BV154411c7tn?p=1)
+26. **[Lecture]** [Deformation Theory and Moduli in Algebraic Geometry](https://www.msri.org/summer_schools/419#) [B站](https://www.bilibili.com/video/BV154411c7tn?p=1) [Note](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.642.1989&rep=rep1&type=pdf)
 
 ## Shimura Varieties
 
