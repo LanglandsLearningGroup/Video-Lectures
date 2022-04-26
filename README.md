@@ -135,12 +135,13 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 10. **[Lecture]** [Between electric-magnetic duality and the Langlands program](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf) 
 by David Ben-Zvi
 
-## Algebraic Number Theory
+## Algebraic Number Theory and Class Field Theory
 
 1. **[Lecture]** An introduction to algebraic and analytic number theory by kedlaya [Part I](https://www.bilibili.com/video/BV12X4y1K7Wn) [Part II](https://www.bilibili.com/video/BV1HT4y1K7RU)
-[Course homepageI](http://math.ucsd.edu/~kkedlaya/math204a/) [II](http://math.ucsd.edu/~kkedlaya/math204b/)
+[Course homepageI](https://kskedlaya.org/math204a-fall20/) [II](https://kskedlaya.org/math204b-win21/)
 2. **[Lecture]** [Algebraic Number Theory II](https://homepages.uni-regensburg.de/~spj54141/teaching.html)
 3. **[Lecture]** [Algebraic Number Theory by Howe](https://www.math.utah.edu/~howe/2021-fall/6370/)
+4. **[Lecture]** [Class field theory standpoint and its so different three fundamental generalisation](https://www.bilibili.com/video/BV18A4y1X75i?spm_id_from=333.999.0.0)
 
 ## Geometric Langlands Program
 
