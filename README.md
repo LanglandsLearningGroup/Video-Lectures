@@ -60,6 +60,7 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 25. **[Talk]** [Moduli stacks of $(\varphi,\Gamma)$-modules by Toby Gee](https://www.youtube.com/watch?v=mDo1axGnHYs&ab_channel=Centrederecherchesmath%C3%A9matiques-CRM)
 26. **[Lecture]** [Deformation Theory and Moduli in Algebraic Geometry](https://www.msri.org/summer_schools/419#) [B站](https://www.bilibili.com/video/BV154411c7tn?p=1) [Note](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.642.1989&rep=rep1&type=pdf)
 27. **[Talk]** [Compatible systems of Galois representations of global function fields by Gebhard Böckle](http://www.birs.ca/events/2017/5-day-workshops/17w5118/videos/watch/201710020906-Boeckle.html)
+28. **[Talk]** [A step-by-step introduction to p-adic Hodge theory by Jared Weinstein](https://researchseminars.org/talk/AutomorphicProject/41/)
 
 ## Shimura Varieties
 
@@ -112,6 +113,8 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 15. **[Talk]** [Geometrization of the local Langlands correspondence by Laurent Fargues](https://www.youtube.com/watch?v=gq5vB2xbRv0&ab_channel=FieldsInstitute)
 16. **[Lecture]** Fourier transform and the geometrization of local Langlands by Arthur-César Le Bras [1](https://www.youtube.com/watch?v=2E-Uz7yhpuA&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=2&ab_channel=GeoTopCPH) [2](https://www.youtube.com/watch?v=HI2v8U4zQy8&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=1&ab_channel=GeoTopCPH) [3](https://www.youtube.com/watch?v=4kXa6WKoVq8&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=3&ab_channel=GeoTopCPH) [4](https://www.youtube.com/watch?v=a66knWC0mCU&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=4&ab_channel=GeoTopCPH) [5](https://www.youtube.com/watch?v=zNfgK__-gY4&list=PLAMniZX5MiiJWkTT5scA5hNUdOavlnuKf&index=5&ab_channel=GeoTopCPH)
 17. **[Talk]** [The Fargues-Fontaine curve and local Langlands by Arthur-César Le Bras](https://researchseminars.org/talk/AutomorphicProject/47/)
+18. **[Talk]** [Overview of the Fargues–Fontaine curve by Gabriel Dospinescu](https://researchseminars.org/talk/AutomorphicProject/43/)
+19. **[Talk]** [Vector bundles on the Fargues-Fontaine curve by Gabriel Dospinescu](https://researchseminars.org/talk/AutomorphicProject/49/)
 
 ## An Introduction to Langlands Program
 
