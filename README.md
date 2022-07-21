@@ -15,6 +15,8 @@ permalink: video_lecture.html
 The video is not clear enough, you can compare with [book](https://yufanluo.wpcomstaging.com/wp-content/uploads/2021/01/标准版.pdf) 
 5. **[Lecture]** [Arizona Winter Semester 2021 and 2022](https://www.math.arizona.edu/~swc/index.html) [B站](https://www.bilibili.com/video/BV1ku411v7zs?p=1)
 6. **[Lecture]** [An introduction to modular forms by Yitang Zhang (in Chinese)](https://www.bilibili.com/video/BV1B4411y7N1?from=search&seid=2629272658836513858)
+7. **[Talk]** [A 2020 View of Fermat's Last Theorem by Kenneth A. Ribet](https://www.youtube.com/watch?v=mq9BS6S2E2k&ab_channel=JointMathematicsMeetings)
+
 
 ## Galois representations, $p$-adic Hodge theory and $p$-adic Langlands Program
 
