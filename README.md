@@ -64,6 +64,7 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 27. **[Talk]** [Compatible systems of Galois representations of global function fields by Gebhard Böckle](http://www.birs.ca/events/2017/5-day-workshops/17w5118/videos/watch/201710020906-Boeckle.html)
 28. **[Talk]** [A step-by-step introduction to p-adic Hodge theory by Jared Weinstein](https://researchseminars.org/talk/AutomorphicProject/41/)
 29. **[Talk]** [Deforming Galois representations by Ashwin Iyengar](https://zoom.us/rec/play/BcLt0H3fxs2VPQAFKDo2bLI0rQQ2-uIZBEKu1BLULcDxayKXy2E-cedWkBfJH3zapQ7wK_u8E6zyLt8o.95ko9Sy0fO7V5fDk?startTime=1652185989000&_x_zm_rtaid=8Y5aKal0SISod4LD4nfTJQ.1652253718459.3031e0c27ba0d7ca8f748acee9d56673&_x_zm_rhtaid=488)
+30. **[Talk]** [$p$-adic Langlands by Matthew Emerton](https://www.bilibili.com/video/BV1Th411o73H?spm_id_from=333.337.search-card.all.click&vd_source=b105b6f89f1b8aa3ba97b66e064ddc68)
 
 
 
