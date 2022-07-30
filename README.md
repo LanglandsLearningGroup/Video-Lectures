@@ -121,7 +121,7 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 18. **[Talk]** [Overview of the Fargues–Fontaine curve by Gabriel Dospinescu](https://researchseminars.org/talk/AutomorphicProject/43/)
 19. **[Talk]** [Vector bundles on the Fargues-Fontaine curve by Gabriel Dospinescu](https://researchseminars.org/talk/AutomorphicProject/49/)
 
-## An Introduction to Langlands Program
+## Langlands Program
 
 1. **[Lecture]** [Automorphic Forms and the Langlands Program by Kevin Buzzard at the Summer Graduate School of MSRI](https://www.bilibili.com/video/BV1YW411L7Zr) [Course homepage](http://wwwf.imperial.ac.uk/~buzzard/MSRI/) (You can find the Latex notes below)
 2. **[Lecture]** The local Langlands correspondence and local-global compatibility for $GL_2$ by Sug Woo Shin 
@@ -142,9 +142,10 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 [2](https://www.youtube.com/watch?v=NN3Gt6iBj3w&ab_channel=HarvardMath)
 [Note](http://www.math.uchicago.edu/~fcale/papers/CDM.pdf)
 9. **[Popular science]** [Modular forms and Galois representations by Sug Woo Shin](https://www.youtube.com/watch?v=2cGTHuiRo3E&ab_channel=MathnetKorea)
-10. **[Lecture]** [Between electric-magnetic duality and the Langlands program](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf) 
+10.  **[Talk]** [The local Langlands conjecture by Richard Taylor](https://www.youtube.com/watch?v=xwPwDAMzWlc&ab_channel=InstituteforAdvancedStudy)
+11. **[Lecture]** [Between electric-magnetic duality and the Langlands program](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf) 
 by David Ben-Zvi
-11. **[Lecture]** [Summer School on the Langlands Program](https://indico.math.cnrs.fr/event/6909/timetable/)
+12. **[Lecture]** [Summer School on the Langlands Program](https://indico.math.cnrs.fr/event/6909/timetable/)
 
 ## Algebraic Number Theory and Class Field Theory
 
