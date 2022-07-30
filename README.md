@@ -143,9 +143,10 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 [Note](http://www.math.uchicago.edu/~fcale/papers/CDM.pdf)
 9. **[Popular science]** [Modular forms and Galois representations by Sug Woo Shin](https://www.youtube.com/watch?v=2cGTHuiRo3E&ab_channel=MathnetKorea)
 10.  **[Talk]** [The local Langlands conjecture by Richard Taylor](https://www.youtube.com/watch?v=xwPwDAMzWlc&ab_channel=InstituteforAdvancedStudy)
-11. **[Lecture]** [Between electric-magnetic duality and the Langlands program](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf) 
+11.  **[Talk]** [Local Langlands correspondence for $GL_n$ over $p$-adic fields by Michael Harris](http://www.birs.ca/events/2008/summer-schools/08ss045/videos/watch/200808121600-Harris.html)
+12. **[Lecture]** [Between electric-magnetic duality and the Langlands program](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf) 
 by David Ben-Zvi
-12. **[Lecture]** [Summer School on the Langlands Program](https://indico.math.cnrs.fr/event/6909/timetable/)
+13. **[Lecture]** [Summer School on the Langlands Program](https://indico.math.cnrs.fr/event/6909/timetable/)
 
 ## Algebraic Number Theory and Class Field Theory
 
