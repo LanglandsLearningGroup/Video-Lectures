@@ -65,6 +65,7 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 28. **[Talk]** [A step-by-step introduction to p-adic Hodge theory by Jared Weinstein](https://researchseminars.org/talk/AutomorphicProject/41/)
 29. **[Talk]** [Deforming Galois representations by Ashwin Iyengar](https://zoom.us/rec/play/BcLt0H3fxs2VPQAFKDo2bLI0rQQ2-uIZBEKu1BLULcDxayKXy2E-cedWkBfJH3zapQ7wK_u8E6zyLt8o.95ko9Sy0fO7V5fDk?startTime=1652185989000&_x_zm_rtaid=8Y5aKal0SISod4LD4nfTJQ.1652253718459.3031e0c27ba0d7ca8f748acee9d56673&_x_zm_rhtaid=488)
 30. **[Talk]** [$p$-adic Langlands by Matthew Emerton](https://www.bilibili.com/video/BV1Th411o73H?spm_id_from=333.337.search-card.all.click&vd_source=b105b6f89f1b8aa3ba97b66e064ddc68)
+31. **[Lecture]** [Franco-Asian Summer School on Arithmetic Geometry](https://www.ihes.fr/~abbes/Luminy/luminy2022.html) [B站](https://www.bilibili.com/video/BV1AB4y1W75n?spm_id_from=333.999.list.card_archive.click&vd_source=b105b6f89f1b8aa3ba97b66e064ddc68)
 
 
 
@@ -147,7 +148,7 @@ you can have a look first at [stuff on London NT study group](https://nms.kcl.ac
 11.  **[Talk]** [Local Langlands correspondence for $GL_n$ over $p$-adic fields by Michael Harris](http://www.birs.ca/events/2008/summer-schools/08ss045/videos/watch/200808121600-Harris.html)
 12. **[Lecture]** [Between electric-magnetic duality and the Langlands program](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf) 
 by David Ben-Zvi
-13. **[Lecture]** [Summer School on the Langlands Program](https://indico.math.cnrs.fr/event/6909/timetable/)
+13. **[Lecture]** [IHES Summer School on the Langlands Program](https://indico.math.cnrs.fr/event/6909/timetable/)
 
 ## Algebraic Number Theory and Class Field Theory
 
