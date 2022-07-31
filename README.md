@@ -206,6 +206,7 @@ by David Ben-Zvi
     - [Animating pyknotic sets (AKA pyknotic spaces)](https://www.msri.org/seminars/24750)
 4. **[Seminar]** Joint Seminar TUM/UR: [Condensed/Pyknotic Mathematics](http://www.mathematik.uni-regensburg.de/cisinski/condensed.html)
 5. **[Seminar]** [Condensed Mathematics (in Chinese)](https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6)
+6. **[Lecture]** [Lecture (Summer 2022): Condensed Mathematics and Complex Geometry by Peter Scholze and Dustin Clausen](https://people.mpim-bonn.mpg.de/scholze/Course%20Summer%2022.html) [B站](https://www.bilibili.com/video/BV1XN4y1T7kz?mid=617908&p=1&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1658093210&unique_k=LnAT7dP&vd_source=b105b6f89f1b8aa3ba97b66e064ddc68)
 
 ## Deligne–Lusztig Theory
 
