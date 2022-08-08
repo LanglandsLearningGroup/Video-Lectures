@@ -128,7 +128,7 @@ The video is not clear enough, you can compare with [book](https://yufanluo.wpco
 [1](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_47ritgx2)
 [2](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_0ijb4ug0)
 [3](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_g6ortsdt)
-[4](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_nt9wgc2)
+[4](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_134l1psy/1_nt9wgc27)
 [5](https://mediaspace.unipd.it/playlist/dedicated/119214951/1_d8zm99gi/1_y4s3ep5b)
 3. **[Lecture]** [Representation theory and number theory by Benedict Gross](https://www.bilibili.com/video/BV1d441147Lz?p=1) [Note](http://www.math.columbia.edu/~chaoli/docs/EilenbergLectures.html#sec10)
 4. **[Lecture]** [Langlands correspondence and Bezrukavnikov’s equivalence by Geordie Williamson](https://www.youtube.com/watch?v=9icAHvcVRAc&list=PLtmvIY4GrVv9kMZmf4Fm1mHUGYzTPY8pV&ab_channel=SydneyMathematicalResearchInstitute-SMRI) [Note](https://arxiv.org/pdf/2103.02329.pdf)
