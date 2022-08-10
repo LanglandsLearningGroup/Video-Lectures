@@ -147,6 +147,7 @@ The video is not clear enough, you can compare with [book](https://yufanluo.wpco
 12. **[Lecture]** [Between electric-magnetic duality and the Langlands program](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf) 
 by David Ben-Zvi
 13. **[Lecture]** [IHES Summer School on the Langlands Program](https://indico.math.cnrs.fr/event/6909/timetable/)
+14. **[Workshop]** [Langlands correspondence for function fields-explain Vincent Lafforgue's ground breaking work](https://www.msri.org/workshops/855) [B站](https://www.bilibili.com/video/av55649612/)
 
 ## Algebraic Number Theory and Class Field Theory
 
