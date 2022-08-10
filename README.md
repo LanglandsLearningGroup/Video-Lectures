@@ -64,6 +64,7 @@ The video is not clear enough, you can compare with [book](https://yufanluo.wpco
 28. **[Talk]** [Deforming Galois representations by Ashwin Iyengar](https://zoom.us/rec/play/BcLt0H3fxs2VPQAFKDo2bLI0rQQ2-uIZBEKu1BLULcDxayKXy2E-cedWkBfJH3zapQ7wK_u8E6zyLt8o.95ko9Sy0fO7V5fDk?startTime=1652185989000&_x_zm_rtaid=8Y5aKal0SISod4LD4nfTJQ.1652253718459.3031e0c27ba0d7ca8f748acee9d56673&_x_zm_rhtaid=488)
 29. **[Talk]** [$p$-adic Langlands by Matthew Emerton](https://www.bilibili.com/video/BV1Th411o73H?spm_id_from=333.337.search-card.all.click&vd_source=b105b6f89f1b8aa3ba97b66e064ddc68)
 30. **[Lecture]** [Franco-Asian Summer School on Arithmetic Geometry](https://www.ihes.fr/~abbes/Luminy/luminy2022.html) [B站](https://www.bilibili.com/video/BV1AB4y1W75n?spm_id_from=333.999.list.card_archive.click&vd_source=b105b6f89f1b8aa3ba97b66e064ddc68)
+31. **[Lecture]** [Arithmetic of Elliptic curves and special values of L-functions](https://www.icts.res.in/program/ecl2022)
 
 
 
