@@ -162,6 +162,7 @@ by David Ben-Zvi
 1. **[Lecture]** [Langlangds program by Frenkel](https://www.bilibili.com/video/BV1XW411C7GN) P1:overview, P2-P5: langlands correspondence for function fields; P5: Deligne's proof of GCFT; P6: the case of over complex number and langlands correspondence for loop group
 2. **[Talk]** [Geometric class field theory](https://www.msri.org/workshops/137/schedules/687)
 3. **[Talk]** [Classical and geometric Langlands over function fields By Dennis Gaitsgory](https://www.bilibili.com/video/BV17Q4y1v734?spm_id_from=333.337.search-card.all.click)
+4. **[Workshop]** [Towards the proof of the geometric Langlands conjecture](https://sites.google.com/site/geometriclanglands2014/) [B站](https://www.bilibili.com/video/av57651093/)
 
 ## Stacks and Moduli
 
