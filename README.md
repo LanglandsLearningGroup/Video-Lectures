@@ -153,6 +153,7 @@ The video is not clear enough, you can compare with [book](https://yufanluo.wpco
 by David Ben-Zvi
 13. **[Lecture]** [IHES Summer School on the Langlands Program](https://indico.math.cnrs.fr/event/6909/timetable/)
 14. **[Workshop]** [Langlands correspondence for function fields-explain Vincent Lafforgue's ground breaking work](https://www.msri.org/workshops/855) [B站](https://www.bilibili.com/video/av55649612/)
+15. **[Mini course]**[Introduction to Langlands-Shahidi Method by Dongming She](https://bicmr.pku.edu.cn/content/show/70-2488.html) [B站](https://www.bilibili.com/video/BV1Xg411u7cH?spm_id_from=333.337.search-card.all.click) 
 
 ## Algebraic Number Theory and Class Field Theory
 
