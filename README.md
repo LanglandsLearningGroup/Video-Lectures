@@ -66,6 +66,7 @@ The video is not clear enough, you can compare with [book](https://yufanluo.wpco
 30. **[Lecture]** [Franco-Asian Summer School on Arithmetic Geometry](https://www.ihes.fr/~abbes/Luminy/luminy2022.html) [B站](https://www.bilibili.com/video/BV1AB4y1W75n?spm_id_from=333.999.list.card_archive.click&vd_source=b105b6f89f1b8aa3ba97b66e064ddc68)
 31. **[Talk]** [Adjoint Selmer groups for polarized automorphic Galois representations by Patrick Allen](https://www.youtube.com/watch?v=HsuV4ajmM2g&ab_channel=InstituteforAdvancedStudy)
 32. **[Lecture]** [Inverse Galois Problem by Tim Dokchitser](https://people.maths.bris.ac.uk/~matyd/InvGal/)
+33. **[Talk]** [Counting Galois representations by Frank Calegari](https://www.youtube.com/watch?v=WbbhO-ERN0Q&t=3055s&ab_channel=InstituteforAdvancedStudy)
 
 
 
