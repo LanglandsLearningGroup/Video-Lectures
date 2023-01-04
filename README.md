@@ -123,6 +123,7 @@ The video is not clear enough, you can compare with [book](https://yufanluo.wpco
 17. **[Talk]** [The Fargues-Fontaine curve and local Langlands by Arthur-César Le Bras](https://researchseminars.org/talk/AutomorphicProject/47/)
 18. **[Talk]** [Overview of the Fargues–Fontaine curve by Gabriel Dospinescu](https://researchseminars.org/talk/AutomorphicProject/43/)
 19. **[Talk]** [Vector bundles on the Fargues-Fontaine curve by Gabriel Dospinescu](https://researchseminars.org/talk/AutomorphicProject/49/)
+20. **[Workshop]** [Workshop on Geometrization of Local Langlands Correspondence](https://mp.weixin.qq.com/s/K2xI5oSA3wdNw6sSChGxoQ) [video](https://cloud.tsinghua.edu.cn/d/f75955eab0514a48b446/)
 
 ## $L$-functions
 
